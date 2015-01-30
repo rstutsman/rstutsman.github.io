@@ -18,6 +18,11 @@ University of Utah<br>
 [Activities](#activities) -
 [Blog](./blog/)
 
+*I am looking for Ph.D. students in the data center, cloud, and large-scale
+storage area. If you are an admitted or current University of Utah CS student
+feel free to contact me. Otherwise, apply to the [Utah SoC PhD
+program](http://www.cs.utah.edu).*
+
 I'm a Postdoctoral Researcher in the 
 [databases group](http://research.microsoft.com/en-us/groups/db/) at
 [Microsoft Research](http://research.microsoft.com/)Microsoft Research.
@@ -68,10 +73,6 @@ systems.
 
 # Publications
 <a label="publications"></a>
-
-## Dissertation
-
-[*Durability and Crash Recovery in Distributed In-Memory Storage Systems*](./thesis.pdf). PhD thesis, Stanford University, Stanford, CA, USA, December 2013.
 
 ## Refereed conference and journal publications
 
@@ -168,3 +169,10 @@ Note to self: The missing one is the RAMCloud TR. But it is irrelevant given SIG
      [Translation-Based Steganography.]
      (https://www.cerias.purdue.edu/assets/pdf/bibtex_archive/2005-39.pdf)
       Technical Report CSD TR 05-009, Purdue University, 2005.
+
+## Dissertation
+
+[Durability and Crash Recovery in Distributed In-Memory Storage Systems.]
+(./papers/thesis.pdf)
+PhD thesis, Stanford University, Stanford, CA, USA, December 2013.
+
