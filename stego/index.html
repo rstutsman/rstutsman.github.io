@@ -1,0 +1,60 @@
+<html>
+<head>
+<title>Lost in Just the Translation: Translation-based Steganography</title>
+</head>
+<body>
+<h1>Lost in Just the Translation</h1>
+
+<h2>About</h2>
+
+<p>
+This tool is a web-based implementation of a natural language-based
+steganographic system developed by 
+<a href="http://grothoff.org/christian/">Christian Grothoff</a> at <a href="http://www.cs.ucla.edu/">UCLA Computer Science Department</a>,
+<a href="http://grothoff.org/krista/">Krista Grothoff</a>,
+<a href="http://www.scs.stanford.edu/~stutsman/">Ryan Stutsman</a>,
+and
+<a href="http://www.cs.purdue.edu/homes/mja/">Mikhail Atallah</a> at
+<a href="http://www.cerias.purdue.edu">CERIAS</a>.  The key
+idea behind the system is to hide a message in the noise inherent
+in natural language translation.  This prototype implements some
+of the ideas presented in our <a href="lijtt-paper.pdf">research paper</a>
+(also, more information is available in <a href="paper.pdf">our paper
+about a previous version of our work</a>).
+</p>
+
+<h2>Features</h2>
+This tool can be used to steganographically encode or decode a message
+in user-defined or system-provided cover texts.  The tool provides a
+variety of options for the encoding as described in the paper, including
+a selection of translation engines, multiple languages and various
+transformations.  The engine uses keyed cryptographic hashes of translations
+to encode information. For details about how
+the system works please read our <a href="lijtt-paper.pdf">paper</a>.<p>
+
+<h2>Limitations</h2>
+The prototype has limitations.  It uses various on-line translation
+engines to obtain translations.  These engines have a high latency, are sometimes
+unavailable and limit the rate at which sentences can be translated.  To alleviate
+these problems, the prototype caches translations in a local database.  However,
+for cover texts supplied by users the cache is likely to not have any effect.  Thus,
+user-supplied covers are likely not to work if they are longer than a few sentences.
+<br>
+For longer hidden messages, the provided covertexts should be used.  For those
+texts we have ensured that all translations are cached already, thus sidestepping
+problems with doing translation requests on-the-fly.
+<br><br>
+<b>Note:</b> Changes in the web interfaces for our online translation sources and small, idiosyncratic changes in the way the translations are encoded by the engines make using the encoder extremely difficult.  You will likely need your own translation software or sources to achieve any meaningful results.
+<p>
+
+<h2>Download</h2>
+Please note since our original sources for translations have changed this software won't provide meaningful results without substanial effort as noted above.  The encoder/decoder portion of the code is isolated fairly well and still serves as a practical example of the protocol described in detail in the paper.
+<p>
+You can download the current release <a href="download/lit-2.0.0.tar.gz">here</a>.
+LiJtT requires PHP 5 with libtidy support, a PEAR supported SQL database (i.e. mysql)
+and a PHP-enabled webserver (i.e. apache).  The machine running LiJtT must be able to
+access the WWW in order to perform on-line queries to various translation engines.
+The size of the initial database included in the distribution is currently 
+around 8 MB.
+</body>
+</html>
