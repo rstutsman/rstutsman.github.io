@@ -3,7 +3,7 @@ layout: page
 ---
 
 <div>
-<img src="http://www.scs.stanford.edu/~stutsman/ryan-stutsman.jpg" alt= "Headshot" width="25%"/>
+<img src="http://www.scs.stanford.edu/~stutsman/ryan-stutsman.jpg" alt="Headshot" width="25%"/>
 <span style="font-size: 150%;">Ryan Stutsman</span><br>
 Assistant Professor<br>
 University of Utah<br>
@@ -15,7 +15,7 @@ University of Utah<br>
 [Projects](#projects) -
 [Publications](#publications) -
 [Talks](#talks) -
-[Activitiies](#activities)
+[Activities](#activities) -
 [Blog](./blog/)
 
 I'm a Postdoctoral Researcher in the 
@@ -23,12 +23,13 @@ I'm a Postdoctoral Researcher in the
 [Microsoft Research](http://research.microsoft.com/)Microsoft Research.
 Previously, I earned my Ph.D. at Stanford University working as a part of the
 [RAMCloud](https://ramcloud.stanford.edu/) and the
-[Secure Computer Systems](http://www.scs.stanford.edu/) lab</a>. My interests include Distributed
-Systems, Operating Systems, and Databases.  I'm passionate about designing and
-building systems that allow large-scale applications to access data more
-intensively than has been possible in the past.  My dissertation work, [Fast
-Crash Recovery in
-RAMCloud](http://www.stanford.edu/~ouster/cgi-bin/papers/ramcloud-recovery.pdf)
+[Secure Computer Systems](http://www.scs.stanford.edu/) lab</a>. My interests
+include Distributed Systems, Operating Systems, and Databases.  I'm passionate
+about designing and building systems that allow large-scale applications to
+access data more intensively than has been possible in the past.  My
+dissertation work,
+[Fast Crash Recovery in RAMCloud]
+(http://www.stanford.edu/~ouster/cgi-bin/papers/ramcloud-recovery.pdf)
 provides durability and availability in a large-scale distributed DRAM-based
 storage system with the same price and energy consumption as today's volatile
 caches. Overall, it enables the use of DRAM as fault-tolerant large-scale data
@@ -37,7 +38,7 @@ systems.
  
 
 # Projects
-<a label="projects">
+<a label="projects"></a>
 
 ## Current
 
@@ -66,13 +67,18 @@ systems.
    natural language translations.
 
 # Publications
-<a label="publications">
+<a label="publications"></a>
 
 ## Dissertation
 
 [*Durability and Crash Recovery in Distributed In-Memory Storage Systems*](./thesis.pdf). PhD thesis, Stanford University, Stanford, CA, USA, December 2013.
 
 ## Refereed conference and journal publications
+
+ {% comment %}
+ Add CIDR15
+ Add new RAMCloud cover-all pub
+ {% endcomment %}
  1. Asaf Cidon, Stephen M. Rumble, Ryan Stutsman, Sachin Katti, John
     Ousterhout, and Mendel Rosenblum.
     [Copysets: Reducing the Frequency of Data Loss in Cloud Storage.]
@@ -80,27 +86,27 @@ systems.
     In *Proceedings of the 2013 USENIX Conference on Annual Technical Conference*,
     USENIX ATC'13, pages 37­48, Berkeley, CA, USA, 2013. USENIX Association.
     (**Best Student Paper Award**)
- 2. Diego Ongaro, Stephen M. Rumble, Ryan Stutsman, John Ousterhout, and Mendel Rosenblum.
+ 1. Diego Ongaro, Stephen M. Rumble, Ryan Stutsman, John Ousterhout, and Mendel Rosenblum.
     [Fast Crash Recovery in RAMCloud.]
     (http://www.stanford.edu/~ouster/cgi-bin/papers/ramcloud-recovery.pdf)
     In *Proceedings of the Twenty-Third ACM Symposium on Operating Systems Principles*,
     SOSP '11, pages 29-41, New York, NY, USA, 2011. ACM.
     (**Presented at conference**)
- 3. John Ousterhout, Parag Agrawal, David Erickson, Christos Kozyrakis, Jacob Leverich,
+ 1. John Ousterhout, Parag Agrawal, David Erickson, Christos Kozyrakis, Jacob Leverich,
     David Mazi&egrave;res, Subhasish Mitra, Aravind Narayanan, Diego Ongaro, Guru Parulkar,
     Mendel Rosenblum, Stephen M. Rumble, Eric Stratmann, and Ryan Stutsman.
     [The Case for RAMCloud.]
     ("http://cacm.acm.org/magazines/2011/7/109885-the-case-for-ramcloud/fulltext)
     *Communications of the ACM*,
     54(7):121-130, July 2011.
- 4. Arjun Roy, Stephen M. Rumble, Ryan Stutsman, Philip Levis, David Mazi&egrave;res,
+ 1. Arjun Roy, Stephen M. Rumble, Ryan Stutsman, Philip Levis, David Mazi&egrave;res,
     and Nickolai Zeldovich.
     [Energy Management in Mobile Devices with the Cinder Operating System.]
     (http://www.scs.stanford.edu/~rumble/papers/eurosys2011-roy.pdf)
     In *Proceedings of the Sixth conference on Computer Systems*,
      EuroSys '11, pages 139-152, New York, NY, USA, 2011. ACM.
      (**Presented at conference**)
- 5. Ryan Stutsman, Mikhail Atallah, Christian Grothoff, and Krista Grothoff.
+ 1. Ryan Stutsman, Mikhail Atallah, Christian Grothoff, and Krista Grothoff.
     [Lost in Just the Translation.]
     (papers/lijtt.pdf)
     In *Proceedings of the 2006 ACM Symposium on Applied Computing*,
