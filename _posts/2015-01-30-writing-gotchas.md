@@ -56,25 +56,44 @@ neither my advisor nor I claim credit for the individual rules: but keeping
 this small collection of checks was potent for me. They significantly improved
 improved the flow of ideas in my writing.
 
-- **Topic Sentence (TS)**: 90% of paragraphs must start with a topic sentence.
-  Is it sometimes advantageous to have topic sentences elsewhere in a
-  paragraph? Maybe, but don't bother. Putting the topic sentence first gives the
-  paragraph a clear direction, and it's hard to make an argument
-  significantly harms style. Another benefit: it's easy to
-  skim though a section (or whole paper) and get the flow just by reading the
-  first sentence of each paragraph.
-  Suspense is for novels and movies: just tell the reader the punchline up front.
-  - *Cheat*: Using a semicolon or colon can be useful to lead into a paragraph
-    with an independent clause that isn't the topic sentence. This should be
-    minimized if possible, but it works well when transitioning between concepts.
-    The key here, is that the reader shouldn't leave the first sentence without
-    knowing what the paragraph is going to cover.
-- **Cross Contamination (CC)**: Each paragraph should only cover one idea. 
+**Topic Sentence (TS)**: 90% of paragraphs must start with a topic sentence.
+Is it sometimes advantageous to have topic sentences elsewhere in a paragraph?
+Maybe, but don't bother. Putting the topic sentence first gives the paragraph a
+clear direction, and it's hard to make an argument significantly harms style.
+Another benefit: it's easy to skim though a section (or whole paper) and get
+the flow just by reading the first sentence of each paragraph.  Suspense is for
+novels and movies: just tell the reader the punchline up front.
+
+*Cheating on TS*: Using a semicolon or colon can be useful to lead into a paragraph
+with an independent clause that isn't the topic sentence. This should be
+minimized if possible, but it works well when transitioning between concepts.
+The key here, is that the reader shouldn't leave the first sentence without
+knowing what the paragraph is going to cover.
+
+**Cross Contamination (CC)**: Each paragraph must only cover one idea.  This is
+critical to keep from derailing a reader's flow of thought and obscuring the
+main point that is being made.  As a detail-oriented engineering-type, I feel
+the need to touch on everything that is related to the idea at hand. I think
+this stems from a two issues.  First, engineers tend to wildly over-estimate
+the importance of technical details, and, second, they worry that someone might
+think they are dumb if something is omitted.
+
+Paying attention to cross contamination has another important perk: it pushes
+for each idea to have a "home" in the text. Often, I find that I cross
+contaminate the same idea into many points in a text. This is a key indicator
+that something important isn't explained adequately. When this happens, it's
+best to refactor by collecting the fragmented idea into a single place in the
+text.
+
+*Cheating on CC*: After a asdffsaafd MESSY  idea has 
+After that occasional asides to the idea's new home in the text can be
+okay, but don't be paranoid by referencing the same idea all over the place.
   
-  Side-effect - important topics may be covered all over
-- **Leading with Details (LD)**: XYZ
-- **Finish the Thought (FT)**: XYZ
-- **Vague and Mysterious (VM)**: XYZ
+**Leading with Details (LD)**: XYZ
+
+**Finish the Thought (FT)**: XYZ
+
+**Vague and Mysterious (VM)**: XYZ
 
 Why these work:
 - Rote, mindless, simple - like a type checker for the concepts of a paragraph.
