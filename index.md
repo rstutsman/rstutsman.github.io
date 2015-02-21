@@ -2,12 +2,14 @@
 layout: page
 ---
 
-<div>
-<img src="http://www.scs.stanford.edu/~stutsman/ryan-stutsman.jpg" alt="Headshot" width="25%"/>
+<div style="width: 100%; display: inline-block;">
+<img src="http://www.scs.stanford.edu/~stutsman/ryan-stutsman.jpg" alt="Headshot" width="25%" style="float: left;"/>
+<div style="float: left; padding-left: 20px;">
 <span style="font-size: 150%;">Ryan Stutsman</span><br>
 Assistant Professor<br>
 University of Utah<br>
 <a href="mailto:stutsman@cs.utah.edu">stutsman@cs.utah.edu</a>
+</div>
 </div>
 
 <p></p>
