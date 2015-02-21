@@ -25,9 +25,9 @@ storage area. If you are an admitted or current University of Utah CS student
 feel free to contact me. Otherwise, apply to the [Utah SoC PhD
 program](http://www.cs.utah.edu).*
 
-I'm a Postdoctoral Researcher in the 
+Currently, I'm a Postdoctoral Researcher in the
 [databases group](http://research.microsoft.com/en-us/groups/db/) at
-[Microsoft Research](http://research.microsoft.com/)Microsoft Research.
+[Microsoft Research](http://research.microsoft.com/).
 Previously, I earned my Ph.D. at Stanford University working as a part of the
 [RAMCloud](https://ramcloud.stanford.edu/) and the
 [Secure Computer Systems](http://www.scs.stanford.edu/) lab</a>. My interests
@@ -44,8 +44,7 @@ center storage which is 50 to 5000 times faster than other data center storage
 systems.
  
 
-# Projects
-<a label="projects"></a>
+# <a name="projects"></a> Projects
 
 ## Current
 
@@ -73,8 +72,7 @@ systems.
  - [Lost in Translation](./stego/) - A steganographic system that hides information in
    natural language translations.
 
-# Publications
-<a label="publications"></a>
+# <a name="publications"></a> Publications
 
 ## Refereed conference and journal publications
 
