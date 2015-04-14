@@ -38,6 +38,8 @@
 html,
 body {
   overflow-x: hidden;
+  /* stutsman: make it more like book */
+  text-align: justify;
 }
 
 html {

@@ -15,7 +15,7 @@ writing.  My advisor burned through several red pens on my thesis, and I wanted
 to capture some of what I learned for future (self-)reflection. Who knows?
 Perhaps it'll come in handy when I have students of my own.
 
-For me, writing is often a humiliating process: I wrestle with big ideas which
+For me, writing is often a humiliating process: I wrestle with big ideas that
 are all mixed with millions of details in my mind. I sometimes spend hours
 boggling in vain, trying to organize and serialize the concepts. What comes out
 in the end can be a disaster. It often has no clear flow with details
@@ -24,16 +24,19 @@ interjected at inopportune places.
 Unfortunately, I've found that when I ask for feedback on these types of
 drafts, I don't get what I need most.  The received feedback is often focused on
 the details of the writing: "eliminate ornate language", "avoid passive voice",
-and "use proper grammar". These things are all helpful for writing well, but,
-in my experience, most of my struggles with writing are organizational, not
-technical.  Overall, I think people give this type of feedback because its
+and "use proper grammar". These things are all helpful for writing well, but
+most of my struggles with writing are organizational, not
+technical.  I think people give this type of feedback because its
 easy: either they didn't understand the ideas well enough to see the problems
 with the writing, they couldn't think of a way to organize the ideas any
-better, or they are looking for a low overhead way to nominally give feedback.
+better, or they are looking for a low overhead way to give nominal feedback.
 (Consequently, don't take lack of feedback from peers as a sign your writing is
 clear; it might be just the opposite.) I'm certainly guilty of giving this type
-of feedback (as an aside, these days when someone asks for feedback, I try to
+of feedback
+{%comment%}
+(as an aside, these days when someone asks for feedback, I try to
 go as deep as a I can and then use a timeout to limit the total time cost).
+{%endcomment%}
 
 My advisor, [John Ousterhout](http://www.cs.stanford.edu/~ouster), always gave
 great writing feedback. It was deep and deeply critical, but it *always*
@@ -43,27 +46,23 @@ pages of my text gave him ample time to reflect on my writing pathologies.
 Eventually, he began using a shorthand notation when the logical structure of
 my writing went astray.
 
-{% comment %} Link his proverb pages {% endcomment %}
 If you don't know John, the man is a walking ball of engineering-inspired
-aphorisms and proverbs. He seems to be a firm believer that, though life has
-complex problems, the repeated application of a small set of rules to life's
-problems can decompose an issue one might face.
-
-{% comment %}
-I was always skeptical about this. As an arrogant 
-{% endcomment %}
+[aphorisms and proverbs](http://web.stanford.edu/~ouster/cgi-bin/sayings.php).
+He seems to be a firm believer that, though life has complex problems, the
+repeated application of a small set of rules can decompose any issue one might
+face.
 
 In the end, I became a believer. I've listed the set of sins that John
-consistently marked in my writing - often many times per page, often many types
+marked in my writing - often many times per page, often many types
 of sin per paragraph.  These now serve as a set of assertions or invariants for
 me: whenever I move my cursor out of a paragraph (either freshly-written or
-just modified) I recheck for any of these red flags.
+just modified) I recheck for all of these red flags.
 
-The rules are easy to verify - they seem almost syntactic. Interestingly,
+The rules are easy to verify - they are almost syntactic. Interestingly,
 though, they easily identify conceptual and flow issues. I should say too,
-neither my advisor nor I claim credit for the individual rules: but keeping
-this small collection of checks was potent for me. They significantly improved
-improved the flow of ideas in my writing.
+neither my advisor nor I claim credit for the individual rules, but adhering
+to this small collection of checks was potent for me. They significantly improved
+the flow of ideas in my writing.
 
 There are five rules, each with a pithy name: *topic sentence*, *cross
 contamination*, *leading with details*, *finish the thought*, *vague and
@@ -75,18 +74,16 @@ Maybe, but don't bother. Putting the topic sentence first gives the paragraph a
 clear direction, and it's hard to make an argument that it significantly harms
 style.  Another benefit: it's easy to skim though a section (or whole paper)
 and get the flow just by reading the first sentence of each paragraph.
-Suspense is for novels and movies: in technical writing just give the reader
-the punchline up front.
 
 *Cheating on TS*: Using a semicolon or colon can be useful to lead into a paragraph
 with an independent clause that isn't the topic sentence. This should be
-minimized if possible, but it works well when transitioning between concepts.
+done sparingly, but it works well when transitioning between concepts.
 The key here is that the reader shouldn't leave the first sentence without
 knowing what the paragraph is going to cover.
 
 **Cross Contamination (CC)**: *Each paragraph must only cover one idea.*  This is
 critical to keep from derailing a reader's flow of thought and obscuring the
-main point that is being made.  As a detail-oriented engineering-type, I feel
+point that is being made.  As a detail-oriented engineering-type, I feel
 the need to touch on everything that is related to the idea at hand. I think
 this stems from a two issues.  First, engineers tend to wildly over-estimate
 the importance of technical details, and, second, they worry that someone might
@@ -94,22 +91,43 @@ think they are dumb if something is omitted.
 
 Paying attention to cross contamination has another important perk: it pushes
 for each idea to have a clear "home" in the text. Often, I find that I cross
-contaminate the same idea into many points in a text. This is a key indicator
-that something important isn't explained adequately. When this happens, it's
-best to refactor by collecting the fragmented idea into a single place in the
-text.
+contaminate bits of the same idea into many points in a text or repeat the same
+exception in many places. This is a key indicator that something important
+isn't explained adequately. When this happens, it's best to refactor by
+collecting the fragmented idea into a single place in the text.
 
-*Cheating on CC*: After a asdffsaafd MESSY  idea has 
-After that occasional asides to the idea's new home in the text can be
-okay, but don't be paranoid by referencing the same idea all over the place.
-  
-**Leading with Details (LD)**: *Get to the key idea **first** in each unit of
-structure (paragraph, section, or chapter).*
+*Cheating on CC*: Repetition of a detail is okay if it's a slippery idea that
+the reader is likely forget along the way, but don't be paranoid by referencing
+the saying the same thing all over the place. Often explicit repetition can be
+avoided by using language that implies "there's more to it" and giving an
+explicit reference to the sections that cover the matter to full detail.
 
-**Finish the Thought (FT)**: *Spell everything out; don't force the reader to
+{%comment%}
+<div style='float: left; width: 50%;'><img src="{{ site.baseurl }}/public/blog/writing/ld.png"></div>
+{%endcomment%}
+
+{%comment%}Need an example.{%endcomment%}
+**Leading with Details (LD)**: *Get to the key idea __first__ in each unit of
+structure (paragraph, section, or chapter).* Suspense is for novels and movies;
+in technical writing just give the reader the punchline up front. Write-ups of
+evaluation and experiments are prone to this. Often paragraphs or sections
+begin by describing configuration and axes rather than a clear description of
+the specific problem being illustrated.
+
+{%comment%}Need an example.{%endcomment%}
+**Finish the Thought (FT)**: *Spell everything out; never force the reader to
 draw inferences.*
 
-**Vague and Mysterious (VM)**: XYZ
+{%comment%}Need an example.{%endcomment%}
+**Vague and Mysterious (VM)**: *Avoid overloaded sentences that are heavy with
+intent and merely confusing for the reader.*
+It's tempting as a writer to fuse each sentence with the maximum amount of
+meaning possible: crafting each word carefully to hint at and echo the subtle
+ideas that draw together all the aspects of the paper. The hope is that the
+sentence will read plainly and matter-of-factly for most readers, but for the
+mythological "astute" reader it'll truly resonate. In the end, these vagaries
+accumulate and wear on readers. They'll easily recognize that the writers think
+a lot of themselves, but they're unlikely to be similarly impressed.
 
 When my advisor first presented me with these rules, I was skeptical.  Why
 would someone restrict the way they write so severely? Don't the rules generate
