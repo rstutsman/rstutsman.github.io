@@ -10,12 +10,12 @@ relative_permalinks: true
 
 # Setup
 title:               Ryan Stutsman
-tagline:             '"Professor"'
+tagline:             ''
 
 # unused - used to be in the sidebar
 description:         ''
 url:                 http://rstutsman.github.io
-baseurl:             /
+baseurl:             ''
 paginate:            5
 paginate_path:       "blog/page:num/"
 
