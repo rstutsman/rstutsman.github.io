@@ -3,7 +3,7 @@ layout: page
 ---
 
 <div style="width: 100%; display: inline-block;">
-<img src="http://www.scs.stanford.edu/~stutsman/ryan-stutsman.jpg" alt="Headshot" width="25%" style="float: left;"/>
+<img src="{{ site.baseurl }}/public/ryan-stutsman.jpg" alt="Headshot" width="25%" style="float: left;"/>
 <div style="float: left; padding-left: 20px;">
 <span style="font-size: 150%;">Ryan Stutsman</span><br>
 Assistant Professor<br>

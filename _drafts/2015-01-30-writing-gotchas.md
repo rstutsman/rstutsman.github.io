@@ -68,6 +68,8 @@ There are five rules, each with a pithy name: *topic sentence*, *cross
 contamination*, *leading with details*, *finish the thought*, *vague and
 mysterious*. Each is explained in more detail below.
 
+<div style='float: right; border: solid 1px silver; padding: 10px; margin: 10px;'>
+</div>
 **Topic Sentence (TS)**: *90% of paragraphs must start with a topic sentence.*
 Is it sometimes advantageous to have topic sentences elsewhere in a paragraph?
 Maybe, but don't bother. Putting the topic sentence first gives the paragraph a
@@ -97,10 +99,10 @@ isn't explained adequately. When this happens, it's best to refactor by
 collecting the fragmented idea into a single place in the text.
 
 *Cheating on CC*: Repetition of a detail is okay if it's a slippery idea that
-the reader is likely forget along the way, but don't be paranoid by referencing
-the saying the same thing all over the place. Often explicit repetition can be
-avoided by using language that implies "there's more to it" and giving an
-explicit reference to the sections that cover the matter to full detail.
+the reader is likely forget along the way, but don't be paranoid, saying the
+same thing all over the place. Often repetition can be avoided by using
+language that implies "there's more to it" and giving an explicit reference to
+the sections that cover the matter in full detail.
 
 {%comment%}
 <div style='float: left; width: 50%;'><img src="{{ site.baseurl }}/public/blog/writing/ld.png"></div>
