@@ -25,23 +25,26 @@ storage area. If you are an admitted or current University of Utah CS student
 feel free to contact me. Otherwise, apply to the [Utah SoC PhD
 program](http://www.cs.utah.edu).*
 
-Currently, I'm a Postdoctoral Researcher in the
-[databases group](http://research.microsoft.com/en-us/groups/db/) at
-[Microsoft Research](http://research.microsoft.com/).
-Previously, I earned my Ph.D. at Stanford University working as a part of the
-[RAMCloud](https://ramcloud.stanford.edu/) and the
-[Secure Computer Systems](http://www.scs.stanford.edu/) lab</a>. My interests
-include Distributed Systems, Operating Systems, and Databases.  I'm passionate
-about designing and building systems that allow large-scale applications to
-access data more intensively than has been possible in the past.  My
-dissertation work,
+I am an Assistant Professor at the [School of Computing](http://www.cs.utah.edu/)
+at the [University of Utah](http://www.utah.edu/).
+My interests include Distributed Systems,
+Operating Systems, and Databases.  I'm passionate about designing and building
+systems that allow large-scale applications to access data more intensively
+than has been possible in the past.  My dissertation work,
 [Fast Crash Recovery in RAMCloud]
 (http://www.stanford.edu/~ouster/cgi-bin/papers/ramcloud-recovery.pdf)
 provides durability and availability in a large-scale distributed DRAM-based
 storage system with the same price and energy consumption as today's volatile
-caches. Overall, it enables the use of DRAM as fault-tolerant large-scale data
+caches.  Overall, it enables the use of DRAM as fault-tolerant large-scale data
 center storage which is 50 to 5000 times faster than other data center storage
 systems.
+
+Formerly, I was a Postdoctoral Researcher in the
+[databases group](http://research.microsoft.com/en-us/groups/db/) at
+[Microsoft Research](http://research.microsoft.com/).
+Before that, I earned my Ph.D. at Stanford University working as a part of the
+[RAMCloud](https://ramcloud.stanford.edu/) and the
+[Secure Computer Systems](http://www.scs.stanford.edu/) lab</a>.
  
 
 # <a name="projects"></a> Projects
