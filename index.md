@@ -176,3 +176,23 @@ Note to self: The missing one is the RAMCloud TR. But it is irrelevant given SIG
 (./papers/thesis.pdf)
 PhD thesis, Stanford University, Stanford, CA, USA, December 2013.
 
+# <a name="talks"></a> Talks
+
+ 1. [Toward Common Patterns for Distributed, Concurrent, Fault-Tolerant Code.]
+    (papers/stutsman-dcft-hotos13.pdf)
+    HotOS'13.
+ 1. [Fast Crash Recovery in RAMCloud.]
+    (http://www.stanford.edu/~ouster/cgi-bin/papers/ramcloud-recovery.pdf)
+    SOSP '11.
+ 1. [Energy Management in Mobile Devices with the Cinder Operating System.]
+    (http://www.scs.stanford.edu/~rumble/papers/eurosys2011-roy.pdf)
+    EuroSys '11.
+ 1. [Lost in Just the Translation.]
+    (papers/lijtt.pdf)
+    ACM SAC '06.
+
+# <a name="activities"></a> Activities
+
+ - IMDM 2014, 2015 PC member
+ - SIGMETRICS 2015 PC member
+ - ICDE 2016 PC member
