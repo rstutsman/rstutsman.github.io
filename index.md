@@ -79,10 +79,18 @@ Before that, I earned my Ph.D. at Stanford University working as a part of the
 
 ## Refereed conference and journal publications
 
- {% comment %}
- Add CIDR15
- Add new RAMCloud cover-all pub
- {% endcomment %}
+ 1. Darko Makreshanski, Justin Levandoski, Ryan Stutsman.
+    To Lock, Swap, or Elide: On the Interplay of Hardware Transactional Memory and Lock-Free Indexing.
+    To appear VLDB 2015.
+ 1. Ryan Stutsman, Collin Lee, and John Ousterhout.
+    [Experience with Rules-Based Programming for Distributed, Concurrent, Fault-Tolerant Code.]
+    (https://www.usenix.org/system/files/conference/atc15/atc15-paper-stutsman.pdf)
+    In *Proceedings of the 2015 USENIX Conference on Annual Technical Conference*,
+    USENIX ATC'15, pages 17­30, Santa Clara, CA, USA, 2015. USENIX Association.
+ 1. Justin Levandoski, David Lomet, Sudipta Sengupta, Ryan Stutsman, Rui Wang.
+    [High Performance Transactions in Deuteronomy.]
+    (http://www.cidrdb.org/cidr2015/Papers/CIDR15_Paper15.pdf)
+    *Conference on Innovative Data Systems Research* (CIDR 2015).
  1. Asaf Cidon, Stephen M. Rumble, Ryan Stutsman, Sachin Katti, John
     Ousterhout, and Mendel Rosenblum.
     [Copysets: Reducing the Frequency of Data Loss in Cloud Storage.]
@@ -95,7 +103,6 @@ Before that, I earned my Ph.D. at Stanford University working as a part of the
     (http://www.stanford.edu/~ouster/cgi-bin/papers/ramcloud-recovery.pdf)
     In *Proceedings of the Twenty-Third ACM Symposium on Operating Systems Principles*,
     SOSP '11, pages 29-41, New York, NY, USA, 2011. ACM.
-    (**Presented at conference**)
  1. John Ousterhout, Parag Agrawal, David Erickson, Christos Kozyrakis, Jacob Leverich,
     David Mazi&egrave;res, Subhasish Mitra, Aravind Narayanan, Diego Ongaro, Guru Parulkar,
     Mendel Rosenblum, Stephen M. Rumble, Eric Stratmann, and Ryan Stutsman.
@@ -109,13 +116,11 @@ Before that, I earned my Ph.D. at Stanford University working as a part of the
     (http://www.scs.stanford.edu/~rumble/papers/eurosys2011-roy.pdf)
     In *Proceedings of the Sixth conference on Computer Systems*,
      EuroSys '11, pages 139-152, New York, NY, USA, 2011. ACM.
-     (**Presented at conference**)
  1. Ryan Stutsman, Mikhail Atallah, Christian Grothoff, and Krista Grothoff.
     [Lost in Just the Translation.]
     (papers/lijtt.pdf)
     In *Proceedings of the 2006 ACM Symposium on Applied Computing*,
     pages 338-345. ACM, April 2006.
-    (**Presented at conference**)
 
 ## Refereed workshop publications
  1. Ryan Stutsman and John Ousterhout.
@@ -123,7 +128,6 @@ Before that, I earned my Ph.D. at Stanford University working as a part of the
     (papers/stutsman-dcft-hotos13.pdf)
     In *Proceedings of the 13th USENIX Conference on Hot Topics in Operating Systems*,
     HotOS'13, Berkeley, CA, USA, 2013. USENIX Association.
-    (**Presented at conference**)
  1. Stephen M. Rumble, Diego Ongaro, Ryan Stutsman, Mendel Rosenblum, and John K. Ousterhout.
     [It's Time for Low Latency.]
     (http://www.scs.stanford.edu/~rumble/papers/latency_hotos11.pdf)
@@ -181,6 +185,12 @@ PhD thesis, Stanford University, Stanford, CA, USA, December 2013.
 
 # <a name="talks"></a> Talks
 
+ 1. [Experience with Rules-Based Programming for Distributed, Concurrent, Fault-Tolerant Code.]
+    (https://www.usenix.org/system/files/conference/atc15/atc15-paper-stutsman.pdf)
+    USENIX ATC'15.
+ 1. [High Performance Transactions in Deuteronomy.]
+    (http://www.cidrdb.org/cidr2015/Papers/CIDR15_Paper15.pdf)
+    CIDR 2015.
  1. [Toward Common Patterns for Distributed, Concurrent, Fault-Tolerant Code.]
     (papers/stutsman-dcft-hotos13.pdf)
     HotOS'13.
