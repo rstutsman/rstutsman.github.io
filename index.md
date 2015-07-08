@@ -86,11 +86,11 @@ Before that, I earned my Ph.D. at Stanford University working as a part of the
     [Experience with Rules-Based Programming for Distributed, Concurrent, Fault-Tolerant Code.]
     (https://www.usenix.org/system/files/conference/atc15/atc15-paper-stutsman.pdf)
     In *Proceedings of the 2015 USENIX Conference on Annual Technical Conference*,
-    USENIX ATC'15, pages 17­30, Santa Clara, CA, USA, 2015. USENIX Association.
+    USENIX ATC'15, pages 17-30, Santa Clara, CA, USA, 2015. USENIX Association.
  1. Justin Levandoski, David Lomet, Sudipta Sengupta, Ryan Stutsman, Rui Wang.
     [High Performance Transactions in Deuteronomy.]
     (http://www.cidrdb.org/cidr2015/Papers/CIDR15_Paper15.pdf)
-    *Conference on Innovative Data Systems Research* (CIDR 2015).
+    *Conference on Innovative Data Systems Research*, CIDR 2015.
  1. Asaf Cidon, Stephen M. Rumble, Ryan Stutsman, Sachin Katti, John
     Ousterhout, and Mendel Rosenblum.
     [Copysets: Reducing the Frequency of Data Loss in Cloud Storage.]
