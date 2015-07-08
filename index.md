@@ -153,6 +153,10 @@ Before that, I earned my Ph.D. at Stanford University working as a part of the
 {% comment %}
 Note to self: The missing one is the RAMCloud TR. But it is irrelevant given SIGOPS version.
 {% endcomment %}
+ 1. Justin Levandoski, Sudipta Sengupta, Ryan Stutsman, and Rui Wang.
+    [Transaction Processing Techniques for Modern Hardware and the Cloud.]
+    (http://sites.computer.org/debull/A15mar/p50.pdf)
+    IEEE Data Engineering Bulletin, March 2015.
  1.  Arjun Roy, Stephen M. Rumble, Ryan Stutsman, Philip Levis, David Mazi&egrave;res,
      and Nickolai Zeldovich.
      [Energy Management in Mobile Devices with the Cinder Operating System.]
