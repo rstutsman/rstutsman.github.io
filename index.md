@@ -14,6 +14,7 @@ University of Utah<br>
 
 <p></p>
 
+[Teaching](#teaching) -
 [Projects](#projects) -
 [Publications](#publications) -
 [Talks](#talks) -
@@ -46,6 +47,9 @@ Before that, I earned my Ph.D. at Stanford University working as a part of the
 [RAMCloud](https://ramcloud.stanford.edu/) and the
 [Secure Computer Systems](http://www.scs.stanford.edu/) lab</a>.
  
+# <a name="Teaching"></a> Teaching
+
+ - [CS6963 Fall 2015 - Distributed Systems](http://www.cs.utah.edu/~stutsman/cs6963/)
 
 # <a name="projects"></a> Projects
 
