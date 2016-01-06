@@ -49,23 +49,24 @@ Before that, I earned my Ph.D. at Stanford University working as a part of the
  
 # <a name="teaching"></a> Teaching
 
- - [CS6963 Fall 2015 - Distributed Systems](http://www.cs.utah.edu/~stutsman/cs6963/)
+- [CS5460/6460 Spring 2016 - Operating Systems Spring 2016](http://utah.instructure.com/courses/364658)
+- [CS6963 Fall 2015 - Distributed Systems](http://www.cs.utah.edu/~stutsman/cs6963/)
 
 # <a name="projects"></a> Projects
 
 ## Current
 
- - [Deuteronomy](http://research.microsoft.com/en-us/groups/db/) - A fully lock-free
-   transactional database engine that is performance competitive with modern
-   in-memory databases. Deuteronomy maintains clean architectural separation of
-   storage, indexing, and transaction components for flexible 
-   deployment in embedded, cloud, or data center systems.
  - [RAMCloud](http://ramcloud.stanford.edu/) - A high-performance distributed
    key-value storage system designed with latency goals to enable the next
    generation of data center applications.
 
 ## Past
 
+ - [Deuteronomy](http://research.microsoft.com/en-us/groups/db/) - A fully lock-free
+   transactional database engine that is performance competitive with modern
+   in-memory databases. Deuteronomy maintains clean architectural separation of
+   storage, indexing, and transaction components for flexible 
+   deployment in embedded, cloud, or data center systems.
  - [Cinder](http://www.scs.stanford.edu/cinder) - An operating system designed
    for cellular phones and mobile devices with fine-grained energy accounting,
     allocation, subdivision, and delegation.
