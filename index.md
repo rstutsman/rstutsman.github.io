@@ -84,9 +84,20 @@ Before that, I earned my Ph.D. at Stanford University working as a part of the
 
 ## Refereed conference and journal publications
 
+ 1. Justin Levandoski, David Lomet, Sudipta Sengupta, Ryan Stutsman, Rui Wang.
+    [Multi-version Range Concurrency Control in Deuteronomy.]
+    (http://www.vldb.org/pvldb/vol8/p2146-levandoski.pdf)
+    In *Proceedings of the VLDB Endowment*, VLDB 2016.
+ 1. John Ousterhout, Arjun Gopalan, Ashish Gupta, Ankita Kejriwal, Collin Lee,
+    Behnam Montazeri, Diego Ongaro, Seo Jin Park, Henry Qin, Mendel Rosenblum,
+    Stephen Rumble, Ryan Stutsman, Stephen Yang
+    [The RAMCloud Storage System.]
+    (http://dl.acm.org/ft_gateway.cfm?id=2806887&type=pdf)
+    In, *ACM Transactions on Computer Systems*, TOCS.
  1. Darko Makreshanski, Justin Levandoski, Ryan Stutsman.
-    To Lock, Swap, or Elide: On the Interplay of Hardware Transactional Memory and Lock-Free Indexing.
-    To appear VLDB 2015.
+    [To Lock, Swap, or Elide: On the Interplay of Hardware Transactional Memory and Lock-Free Indexing.]
+    (http://www.vldb.org/pvldb/vol8/p1298-makreshanski.pdf)
+    In *Proceedings of the VLDB Endowment*, VLDB 2015.
  1. Ryan Stutsman, Collin Lee, and John Ousterhout.
     [Experience with Rules-Based Programming for Distributed, Concurrent, Fault-Tolerant Code.]
     (https://www.usenix.org/system/files/conference/atc15/atc15-paper-stutsman.pdf)
@@ -128,6 +139,11 @@ Before that, I earned my Ph.D. at Stanford University working as a part of the
     pages 338-345. ACM, April 2006.
 
 ## Refereed workshop publications
+ 1. Mohammed Al-Mahfoudh, Ganesh Gopalakrishnan, Ryan Stutsman.
+    [Toward Rigorous Design of Domain-specific Distributed Systems.]
+    (http://formalverification.cs.utah.edu/ds2/papers/formalise2016.pdf)
+    In *Proceedings of the 4th FME Workshop on Formal Methods in Software Engineering*,
+    FormaliSE'16, Austin, TX, USA, 2016.
  1. Ryan Stutsman and John Ousterhout.
     [Toward Common Patterns for Distributed, Concurrent, Fault-Tolerant Code.]
     (papers/stutsman-dcft-hotos13.pdf)
