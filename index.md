@@ -47,7 +47,7 @@ Before that, I earned my Ph.D. at Stanford University working as a part of the
 [RAMCloud](https://ramcloud.stanford.edu/) and the
 [Secure Computer Systems](http://www.scs.stanford.edu/) labs</a>.
 
-# <a name="teaching"></a> Students
+# <a name="students"></a> Students
 
  - Current
    - Chinmay Kulkarni, PhD 2021 expected
