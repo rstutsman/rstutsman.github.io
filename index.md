@@ -37,7 +37,7 @@ than has been possible in the past.  My dissertation work,
 provides durability and availability in a large-scale distributed DRAM-based
 storage system with the same price and energy consumption as today's volatile
 caches.  Overall, it enables the use of DRAM as fault-tolerant large-scale data
-center storage which is 50 to 5000 times faster than other data center storage
+center storage which is 50 to 5,000 times faster than other data center storage
 systems.
 
 Formerly, I was a Postdoctoral Researcher in the
@@ -45,10 +45,21 @@ Formerly, I was a Postdoctoral Researcher in the
 [Microsoft Research](http://research.microsoft.com/).
 Before that, I earned my Ph.D. at Stanford University working as a part of the
 [RAMCloud](https://ramcloud.stanford.edu/) and the
-[Secure Computer Systems](http://www.scs.stanford.edu/) lab</a>.
+[Secure Computer Systems](http://www.scs.stanford.edu/) labs</a>.
+
+# <a name="teaching"></a> Students
+
+ - Current
+   - Chinmay Kulkarni, PhD 2021 expected
+   - Tian Zhang, PhD 2020 expected
+   - Mohammed Al-Mahfoudh, PhD 2017 expected (Co-advised with Ganesh Gopalakrishnan)
+ - Alumni
+   - Aniraj Kesavan, MS 2017
  
 # <a name="teaching"></a> Teaching
 
+- [CS6963 Fall 2017 - Distributed Systems](http://www.cs.utah.edu/~stutsman/cs6963/)
+- [CS6963 Fall 2016 - Distributed Systems](http://www.cs.utah.edu/~stutsman/cs6963/)
 - [CS5460/6460 Spring 2016 - Operating Systems](http://utah.instructure.com/courses/364658)
 - [CS6963 Fall 2015 - Distributed Systems](http://www.cs.utah.edu/~stutsman/cs6963/)
 
@@ -59,6 +70,9 @@ Before that, I earned my Ph.D. at Stanford University working as a part of the
  - [RAMCloud](http://ramcloud.stanford.edu/) - A high-performance distributed
    key-value storage system designed with latency goals to enable the next
    generation of data center applications.
+ - [LSM-SIM](https://github.com/utah-scs/lsm-sim) - A trace-driven web cache
+   simulator designed to simulate common and advanced eviction and memory
+   management policies for large-scale in-memory caches, like memcached.
 
 ## Past
 
@@ -139,6 +153,14 @@ Before that, I earned my Ph.D. at Stanford University working as a part of the
     pages 338-345. ACM, April 2006.
 
 ## Refereed workshop publications
+ 1. Aniraj Kesavan, Robert Ricci, and Ryan Stutsman.
+    [To Copy or Not to Copy: Making In-Memory Databases Fast on Modern NICs.]
+    (papers/copy-not-to-copy.pdf)
+    In *4th Workshop on In-memory Data Management*, IMDM'16.
+ 1. Mohammed Al-Mahfoudh, Ganesh Gopalakrishnan, and Ryan Stutsman.
+    [Toward Bringing Distributed Systems Design Upon Rigorous Footing.]
+    (http://ieeexplore.ieee.org/document/7785746/)
+    In *IEEE Workshop on Formal Methods and Integration*, FMi'16.
  1. Mohammed Al-Mahfoudh, Ganesh Gopalakrishnan, Ryan Stutsman.
     [Toward Rigorous Design of Domain-specific Distributed Systems.]
     (http://formalverification.cs.utah.edu/ds2/papers/formalise2016.pdf)
@@ -174,6 +196,10 @@ Before that, I earned my Ph.D. at Stanford University working as a part of the
 {% comment %}
 Note to self: The missing one is the RAMCloud TR. But it is irrelevant given SIGOPS version.
 {% endcomment %}
+ 1. Chinmay Kulkarni, Aniraj Kesavan, Robert Ricci, and Ryan Stutsman.
+    [Beyond Simple Request Processing with RAMCloud.]
+    (http://sites.computer.org/debull/A17mar/p62.pdf)
+    IEEE Data Engineering Bulletin, March 2017.
  1. Justin Levandoski, Sudipta Sengupta, Ryan Stutsman, and Rui Wang.
     [Transaction Processing Techniques for Modern Hardware and the Cloud.]
     (http://sites.computer.org/debull/A15mar/p50.pdf)
@@ -210,6 +236,9 @@ PhD thesis, Stanford University, Stanford, CA, USA, December 2013.
 
 # <a name="talks"></a> Talks
 
+ 1. [Multi-version Range Concurrency Control in Deuteronomy.]
+    (http://www.vldb.org/pvldb/vol8/p2146-levandoski.pdf)
+    VLDB 2016.
  1. [Experience with Rules-Based Programming for Distributed, Concurrent, Fault-Tolerant Code.]
     (https://www.usenix.org/system/files/conference/atc15/atc15-paper-stutsman.pdf)
     USENIX ATC'15.
@@ -231,6 +260,11 @@ PhD thesis, Stanford University, Stanford, CA, USA, December 2013.
 
 # <a name="activities"></a> Activities
 
- - IMDM 2014, 2015 PC member
- - SIGMETRICS 2015 PC member
+ - VLDB 2017 Industrial Track PC member
+ - SIGMOD 2017 PC member
+ - SIGMOD 2016 Demo Committee
  - ICDE 2016 PC member
+ - IMDM 2014, 2015, 2016 PC member
+ - SIGMETRICS 2015 PC member
+
+ - University of Utah School of Computing Undergraduate Student Advisory Committee Faculty Advisor 2015 - present
