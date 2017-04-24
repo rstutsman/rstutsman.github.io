@@ -98,6 +98,9 @@ Before that, I earned my Ph.D. at Stanford University working as a part of the
 
 ## Refereed conference and journal publications
 
+ 1. Asaf Cidon, Daniel Rushton, Stephen M. Rumble, and Ryan Stutsman.
+    Memshare: Memory Resource Sharing in Multi-tenant Web Caches.
+    In *Proceedings of the 2017 USENIX Conference on Annual Technical Conference*, USENIX ATC’17.
  1. Justin Levandoski, David Lomet, Sudipta Sengupta, Ryan Stutsman, Rui Wang.
     [Multi-version Range Concurrency Control in Deuteronomy.]
     (http://www.vldb.org/pvldb/vol8/p2146-levandoski.pdf)
@@ -153,6 +156,9 @@ Before that, I earned my Ph.D. at Stanford University working as a part of the
     pages 338-345. ACM, April 2006.
 
 ## Refereed workshop publications
+ 1. Tian Zhang and Ryan Stutsman.
+    JavaScript for Extending Low-latency In-memory Key-value Stores.
+    In *Proceedings of the 9th USENIX Conference on Hot Topics in Cloud Computing*, HotCloud’17.
  1. Aniraj Kesavan, Robert Ricci, and Ryan Stutsman.
     [To Copy or Not to Copy: Making In-Memory Databases Fast on Modern NICs.]
     (papers/copy-not-to-copy.pdf)
