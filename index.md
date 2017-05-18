@@ -274,5 +274,5 @@ PhD thesis, Stanford University, Stanford, CA, USA, December 2013.
  - IMDM 2014, 2015, 2016 PC member
  - SIGMETRICS 2015 PC member
 
- - University of Utah School of Computing Graduate Admit Visit Day Coordinator 2017 - present
+ - University of Utah School of Computing Graduate Admit Visit Day Coordinator 2017 - present  
  - University of Utah School of Computing Undergraduate Student Advisory Committee Faculty Advisor 2015 - present
