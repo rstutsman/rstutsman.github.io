@@ -26,7 +26,8 @@ storage area. If you are an admitted or current University of Utah CS student
 feel free to contact me. Otherwise, apply to the [Utah SoC PhD
 program](http://www.cs.utah.edu).*
 
-I am an Assistant Professor at the [School of Computing](http://www.cs.utah.edu/)
+I am an Assistant Professor and head of the [Scalable Software Systems Lab](http://www.utah.systems/)
+in the [School of Computing](http://www.cs.utah.edu/)
 at the [University of Utah](http://www.utah.edu/).
 My interests include Distributed Systems,
 Operating Systems, and Databases.  I'm passionate about designing and building
@@ -267,10 +268,11 @@ PhD thesis, Stanford University, Stanford, CA, USA, December 2013.
 # <a name="activities"></a> Activities
 
  - VLDB 2017 Industrial Track PC member
- - SIGMOD 2017 PC member
+ - SIGMOD 2017 PC member (Distinguished PC member award)
  - SIGMOD 2016 Demo Committee
  - ICDE 2016 PC member
  - IMDM 2014, 2015, 2016 PC member
  - SIGMETRICS 2015 PC member
 
+ - University of Utah School of Computing Graduate Admit Visit Day Coordinator 2017 - present
  - University of Utah School of Computing Undergraduate Student Advisory Committee Faculty Advisor 2015 - present
