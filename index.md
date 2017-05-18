@@ -33,8 +33,7 @@ My interests include Distributed Systems,
 Operating Systems, and Databases.  I'm passionate about designing and building
 systems that allow large-scale applications to access data more intensively
 than has been possible in the past.  My dissertation work,
-[Fast Crash Recovery in RAMCloud]
-(http://www.stanford.edu/~ouster/cgi-bin/papers/ramcloud-recovery.pdf)
+[Fast Crash Recovery in RAMCloud](http://www.stanford.edu/~ouster/cgi-bin/papers/ramcloud-recovery.pdf)
 provides durability and availability in a large-scale distributed DRAM-based
 storage system with the same price and energy consumption as today's volatile
 caches.  Overall, it enables the use of DRAM as fault-tolerant large-scale data
@@ -46,7 +45,7 @@ Formerly, I was a Postdoctoral Researcher in the
 [Microsoft Research](http://research.microsoft.com/).
 Before that, I earned my Ph.D. at Stanford University working as a part of the
 [RAMCloud](https://ramcloud.stanford.edu/) and the
-[Secure Computer Systems](http://www.scs.stanford.edu/) labs</a>.
+[Secure Computer Systems](http://www.scs.stanford.edu/) labs.
 
 # <a name="students"></a> Students
 
@@ -100,59 +99,49 @@ Before that, I earned my Ph.D. at Stanford University working as a part of the
 ## Refereed conference and journal publications
 
  1. Asaf Cidon, Daniel Rushton, Stephen M. Rumble, and Ryan Stutsman.
-    Memshare: Memory Resource Sharing in Multi-tenant Web Caches.
-    In *Proceedings of the 2017 USENIX Conference on Annual Technical Conference*, USENIX ATC’17.
+    [Memshare: Memory Resource Sharing in Multi-tenant Web Caches.](http://www.usenix.org/conference/atc17/program/presentation/cidon)
+    In *Proceedings of the 2017 USENIX Conference on Annual Technical Conference*, USENIX ATC'17.
  1. Justin Levandoski, David Lomet, Sudipta Sengupta, Ryan Stutsman, Rui Wang.
-    [Multi-version Range Concurrency Control in Deuteronomy.]
-    (http://www.vldb.org/pvldb/vol8/p2146-levandoski.pdf)
+    [Multi-version Range Concurrency Control in Deuteronomy.](http://www.vldb.org/pvldb/vol8/p2146-levandoski.pdf)
     In *Proceedings of the VLDB Endowment*, VLDB 2016.
  1. John Ousterhout, Arjun Gopalan, Ashish Gupta, Ankita Kejriwal, Collin Lee,
     Behnam Montazeri, Diego Ongaro, Seo Jin Park, Henry Qin, Mendel Rosenblum,
     Stephen Rumble, Ryan Stutsman, Stephen Yang
-    [The RAMCloud Storage System.]
-    (http://dl.acm.org/ft_gateway.cfm?id=2806887&type=pdf)
+    [The RAMCloud Storage System.](http://dl.acm.org/ft_gateway.cfm?id=2806887&type=pdf)
     In *ACM Transactions on Computer Systems*, TOCS.
  1. Darko Makreshanski, Justin Levandoski, Ryan Stutsman.
-    [To Lock, Swap, or Elide: On the Interplay of Hardware Transactional Memory and Lock-Free Indexing.]
-    (http://www.vldb.org/pvldb/vol8/p1298-makreshanski.pdf)
+    [To Lock, Swap, or Elide: On the Interplay of Hardware Transactional Memory and Lock-Free Indexing.](http://www.vldb.org/pvldb/vol8/p1298-makreshanski.pdf)
     In *Proceedings of the VLDB Endowment*, VLDB 2015.
  1. Ryan Stutsman, Collin Lee, and John Ousterhout.
-    [Experience with Rules-Based Programming for Distributed, Concurrent, Fault-Tolerant Code.]
-    (https://www.usenix.org/system/files/conference/atc15/atc15-paper-stutsman.pdf)
+    [Experience with Rules-Based Programming for Distributed, Concurrent, Fault-Tolerant Code.](https://www.usenix.org/system/files/conference/atc15/atc15-paper-stutsman.pdf)
     In *Proceedings of the 2015 USENIX Conference on Annual Technical Conference*,
     USENIX ATC'15, pages 17-30, Santa Clara, CA, USA, 2015. USENIX Association.
  1. Justin Levandoski, David Lomet, Sudipta Sengupta, Ryan Stutsman, Rui Wang.
-    [High Performance Transactions in Deuteronomy.]
-    (http://www.cidrdb.org/cidr2015/Papers/CIDR15_Paper15.pdf)
+    [High Performance Transactions in Deuteronomy.](http://www.cidrdb.org/cidr2015/Papers/CIDR15_Paper15.pdf)
     *Conference on Innovative Data Systems Research*, CIDR 2015.
  1. Asaf Cidon, Stephen M. Rumble, Ryan Stutsman, Sachin Katti, John
     Ousterhout, and Mendel Rosenblum.
-    [Copysets: Reducing the Frequency of Data Loss in Cloud Storage.]
-    (http://www.stanford.edu/~cidon/materials/CR.pdf)
+    [Copysets: Reducing the Frequency of Data Loss in Cloud Storage.](http://www.stanford.edu/~cidon/materials/CR.pdf)
     In *Proceedings of the 2013 USENIX Conference on Annual Technical Conference*,
     USENIX ATC'13, pages 37­48, Berkeley, CA, USA, 2013. USENIX Association.
     (**Best Student Paper Award**)
  1. Diego Ongaro, Stephen M. Rumble, Ryan Stutsman, John Ousterhout, and Mendel Rosenblum.
-    [Fast Crash Recovery in RAMCloud.]
-    (http://www.stanford.edu/~ouster/cgi-bin/papers/ramcloud-recovery.pdf)
+    [Fast Crash Recovery in RAMCloud.](http://www.stanford.edu/~ouster/cgi-bin/papers/ramcloud-recovery.pdf)
     In *Proceedings of the Twenty-Third ACM Symposium on Operating Systems Principles*,
     SOSP '11, pages 29-41, New York, NY, USA, 2011. ACM.
  1. John Ousterhout, Parag Agrawal, David Erickson, Christos Kozyrakis, Jacob Leverich,
     David Mazi&egrave;res, Subhasish Mitra, Aravind Narayanan, Diego Ongaro, Guru Parulkar,
     Mendel Rosenblum, Stephen M. Rumble, Eric Stratmann, and Ryan Stutsman.
-    [The Case for RAMCloud.]
-    ("http://cacm.acm.org/magazines/2011/7/109885-the-case-for-ramcloud/fulltext)
+    [The Case for RAMCloud.]("http://cacm.acm.org/magazines/2011/7/109885-the-case-for-ramcloud/fulltext)
     *Communications of the ACM*,
     54(7):121-130, July 2011.
  1. Arjun Roy, Stephen M. Rumble, Ryan Stutsman, Philip Levis, David Mazi&egrave;res,
     and Nickolai Zeldovich.
-    [Energy Management in Mobile Devices with the Cinder Operating System.]
-    (http://www.scs.stanford.edu/~rumble/papers/eurosys2011-roy.pdf)
+    [Energy Management in Mobile Devices with the Cinder Operating System.](http://www.scs.stanford.edu/~rumble/papers/eurosys2011-roy.pdf)
     In *Proceedings of the Sixth conference on Computer Systems*,
      EuroSys '11, pages 139-152, New York, NY, USA, 2011. ACM.
  1. Ryan Stutsman, Mikhail Atallah, Christian Grothoff, and Krista Grothoff.
-    [Lost in Just the Translation.]
-    (papers/lijtt.pdf)
+    [Lost in Just the Translation.](papers/lijtt.pdf)
     In *Proceedings of the 2006 ACM Symposium on Applied Computing*,
     pages 338-345. ACM, April 2006.
 
@@ -161,41 +150,33 @@ Before that, I earned my Ph.D. at Stanford University working as a part of the
     JavaScript for Extending Low-latency In-memory Key-value Stores.
     In *Proceedings of the 9th USENIX Conference on Hot Topics in Cloud Computing*, HotCloud’17.
  1. Aniraj Kesavan, Robert Ricci, and Ryan Stutsman.
-    [To Copy or Not to Copy: Making In-Memory Databases Fast on Modern NICs.]
-    (papers/copy-not-to-copy.pdf)
+    [To Copy or Not to Copy: Making In-Memory Databases Fast on Modern NICs.](papers/copy-not-to-copy.pdf)
     In *4th Workshop on In-memory Data Management*, IMDM'16.
  1. Mohammed Al-Mahfoudh, Ganesh Gopalakrishnan, and Ryan Stutsman.
-    [Toward Bringing Distributed Systems Design Upon Rigorous Footing.]
-    (http://ieeexplore.ieee.org/document/7785746/)
+    [Toward Bringing Distributed Systems Design Upon Rigorous Footing.](http://ieeexplore.ieee.org/document/7785746/)
     In *IEEE Workshop on Formal Methods and Integration*, FMi'16.
  1. Mohammed Al-Mahfoudh, Ganesh Gopalakrishnan, Ryan Stutsman.
-    [Toward Rigorous Design of Domain-specific Distributed Systems.]
-    (http://formalverification.cs.utah.edu/ds2/papers/formalise2016.pdf)
+    [Toward Rigorous Design of Domain-specific Distributed Systems.](http://formalverification.cs.utah.edu/ds2/papers/formalise2016.pdf)
     In *Proceedings of the 4th FME Workshop on Formal Methods in Software Engineering*,
     FormaliSE'16, Austin, TX, USA, 2016.
  1. Ryan Stutsman and John Ousterhout.
-    [Toward Common Patterns for Distributed, Concurrent, Fault-Tolerant Code.]
-    (papers/stutsman-dcft-hotos13.pdf)
+    [Toward Common Patterns for Distributed, Concurrent, Fault-Tolerant Code.](papers/stutsman-dcft-hotos13.pdf)
     In *Proceedings of the 13th USENIX Conference on Hot Topics in Operating Systems*,
     HotOS'13, Berkeley, CA, USA, 2013. USENIX Association.
  1. Stephen M. Rumble, Diego Ongaro, Ryan Stutsman, Mendel Rosenblum, and John K. Ousterhout.
-    [It's Time for Low Latency.]
-    (http://www.scs.stanford.edu/~rumble/papers/latency_hotos11.pdf)
+    [It's Time for Low Latency.](http://www.scs.stanford.edu/~rumble/papers/latency_hotos11.pdf)
     In *Proceedings of the 13th USENIX Conference on Hot Topics in Operating Systems*,
     HotOS '11, pages 11-15, Berkeley, CA, USA, 2011. USENIX Association.
  1. Stephen M. Rumble, Ryan Stutsman, Philip Levis, David Mazi&egrave;res, and Nickolai Zeldovich.
-    [Apprehending Joule Thieves with Cinder.]
-    (papers/mobiheld04-rumble.pdf)
+    [Apprehending Joule Thieves with Cinder.](papers/mobiheld04-rumble.pdf)
     In *MobiHeld '09: Proceedings of the 1st ACM workshop on Networking,
     systems, and applications for mobile handhelds*, pages 49-54, 2009.
  1.  Jad Naous, Ryan Stutsman, David Mazi&egrave;res, Nick McKeown, and Nickolai Zeldovich.
-     [Delegating Network Security with More Information.]
-     (papers/wren27-naous.pdf)
+     [Delegating Network Security with More Information.](papers/wren27-naous.pdf)
      In *Proceedings of the 1st ACM Workshop on Research on Enterprise Networking*,
      WREN '09, pages 19-26, 2009.
  1.  Christian Grothoff, Krista Grothoff, Ludmila Alkhutova, Ryan Stutsman, and Mikhail Atallah.
-     [Translation-Based Steganography]
-     (papers/lit.pdf)
+     [Translation-Based Steganography](papers/lit.pdf)
      In *Proceedings of Information Hiding Workshop*,
      IH 2005, pages 213-233. Springer-Verlag, 2005.
 
@@ -204,65 +185,50 @@ Before that, I earned my Ph.D. at Stanford University working as a part of the
 Note to self: The missing one is the RAMCloud TR. But it is irrelevant given SIGOPS version.
 {% endcomment %}
  1. Chinmay Kulkarni, Aniraj Kesavan, Robert Ricci, and Ryan Stutsman.
-    [Beyond Simple Request Processing with RAMCloud.]
-    (http://sites.computer.org/debull/A17mar/p62.pdf)
+    [Beyond Simple Request Processing with RAMCloud.](http://sites.computer.org/debull/A17mar/p62.pdf)
     IEEE Data Engineering Bulletin, March 2017.
  1. Justin Levandoski, Sudipta Sengupta, Ryan Stutsman, and Rui Wang.
-    [Transaction Processing Techniques for Modern Hardware and the Cloud.]
-    (http://sites.computer.org/debull/A15mar/p50.pdf)
+    [Transaction Processing Techniques for Modern Hardware and the Cloud.](http://sites.computer.org/debull/A15mar/p50.pdf)
     IEEE Data Engineering Bulletin, March 2015.
  1.  Arjun Roy, Stephen M. Rumble, Ryan Stutsman, Philip Levis, David Mazi&egrave;res,
      and Nickolai Zeldovich.
-     [Energy Management in Mobile Devices with the Cinder Operating System.]
-     (http://hci.stanford.edu/cstr/reports/2010-02.pdf)
+     [Energy Management in Mobile Devices with the Cinder Operating System.](http://hci.stanford.edu/cstr/reports/2010-02.pdf)
      Technical Report CSTR-2010-02, Stanford University, June 2010.
  1. Stephen M. Rumble, Ryan Stutsman, Philip Levis, David Mazi&egrave;res, and Nickolai Zeldovich.
-    [Apprehending Joule Thieves with Cinder.]
-    ("papers/rumble-cinder-ccr.pdf")
+    [Apprehending Joule Thieves with Cinder.]("papers/rumble-cinder-ccr.pdf")
     *SIGCOMM Computer Communication Review*, 40(1):106-111, 2010.
  1. John Ousterhout, Parag Agrawal, David Erickson, Christos Kozyrakis, Jacob Leverich,
     David Mazi&egrave;res, Subhasish Mitra, Aravind Narayanan, Guru Parulkar, Mendel Rosenblum,
     Stephen M. Rumble, Eric Stratmann, and Ryan Stutsman.
-    [The Case for RAMClouds: Scalable High-Performance Storage Entirely in DRAM.]
-    (http://doi.acm.org/10.1145/1713254.1713276)
+    [The Case for RAMClouds: Scalable High-Performance Storage Entirely in DRAM.](http://doi.acm.org/10.1145/1713254.1713276)
     *SIGOPS Operating Systems Review*, 43(4):92-105, December 2009.
  1. Christian Grothoff, Krista Grothoff, Ryan Stutsman, Ludmila Alkhutova, and Mikhail J. Atallah.
-    [Translation-based Steganography.]
-    ("http://iospress.metapress.com/content/j97333w402k26404/")
+    [Translation-based Steganography.]("http://iospress.metapress.com/content/j97333w402k26404/")
     *Journal of Computer Security*, 17(3):269-303, 2009.
  1.  Christian Grothoff, Krista Grothoff, Ludmila Alkhutova, Ryan Stutsman, and Mikhail Atallah.
-     [Translation-Based Steganography.]
-     (https://www.cerias.purdue.edu/assets/pdf/bibtex_archive/2005-39.pdf)
+     [Translation-Based Steganography.](https://www.cerias.purdue.edu/assets/pdf/bibtex_archive/2005-39.pdf)
       Technical Report CSD TR 05-009, Purdue University, 2005.
 
 ## Dissertation
 
-[Durability and Crash Recovery in Distributed In-Memory Storage Systems.]
-(./papers/thesis.pdf)
+[Durability and Crash Recovery in Distributed In-Memory Storage Systems.](./papers/thesis.pdf)
 PhD thesis, Stanford University, Stanford, CA, USA, December 2013.
 
 # <a name="talks"></a> Talks
 
- 1. [Multi-version Range Concurrency Control in Deuteronomy.]
-    (http://www.vldb.org/pvldb/vol8/p2146-levandoski.pdf)
+ 1. [Multi-version Range Concurrency Control in Deuteronomy.](http://www.vldb.org/pvldb/vol8/p2146-levandoski.pdf)
     VLDB 2016.
- 1. [Experience with Rules-Based Programming for Distributed, Concurrent, Fault-Tolerant Code.]
-    (https://www.usenix.org/system/files/conference/atc15/atc15-paper-stutsman.pdf)
+ 1. [Experience with Rules-Based Programming for Distributed, Concurrent, Fault-Tolerant Code.](https://www.usenix.org/system/files/conference/atc15/atc15-paper-stutsman.pdf)
     USENIX ATC'15.
- 1. [High Performance Transactions in Deuteronomy.]
-    (http://www.cidrdb.org/cidr2015/Papers/CIDR15_Paper15.pdf)
+ 1. [High Performance Transactions in Deuteronomy.](http://www.cidrdb.org/cidr2015/Papers/CIDR15_Paper15.pdf)
     CIDR 2015.
- 1. [Toward Common Patterns for Distributed, Concurrent, Fault-Tolerant Code.]
-    (papers/stutsman-dcft-hotos13.pdf)
+ 1. [Toward Common Patterns for Distributed, Concurrent, Fault-Tolerant Code.](papers/stutsman-dcft-hotos13.pdf)
     HotOS'13.
- 1. [Fast Crash Recovery in RAMCloud.]
-    (http://www.stanford.edu/~ouster/cgi-bin/papers/ramcloud-recovery.pdf)
+ 1. [Fast Crash Recovery in RAMCloud.](http://www.stanford.edu/~ouster/cgi-bin/papers/ramcloud-recovery.pdf)
     SOSP '11.
- 1. [Energy Management in Mobile Devices with the Cinder Operating System.]
-    (http://www.scs.stanford.edu/~rumble/papers/eurosys2011-roy.pdf)
+ 1. [Energy Management in Mobile Devices with the Cinder Operating System.](http://www.scs.stanford.edu/~rumble/papers/eurosys2011-roy.pdf)
     EuroSys '11.
- 1. [Lost in Just the Translation.]
-    (papers/lijtt.pdf)
+ 1. [Lost in Just the Translation.](papers/lijtt.pdf)
     ACM SAC '06.
 
 # <a name="activities"></a> Activities
