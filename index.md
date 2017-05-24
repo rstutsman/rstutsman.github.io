@@ -183,7 +183,7 @@ Before that, I earned my Ph.D. at Stanford University working as a part of the
      In *Proceedings of Information Hiding Workshop*,
      IH 2005, pages 213-233. Springer-Verlag, 2005.
 
-## Unrefereed publications and technical reports
+## Unrefereed publications
  1. Chinmay Kulkarni, Aniraj Kesavan, Robert Ricci, and Ryan Stutsman.
     [Beyond Simple Request Processing with RAMCloud.](http://sites.computer.org/debull/A17mar/p62.pdf)
     IEEE Data Engineering Bulletin, March 2017.
