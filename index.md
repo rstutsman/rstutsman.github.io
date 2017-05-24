@@ -140,6 +140,9 @@ Before that, I earned my Ph.D. at Stanford University working as a part of the
     [Energy Management in Mobile Devices with the Cinder Operating System.](http://www.scs.stanford.edu/~rumble/papers/eurosys2011-roy.pdf)
     In *Proceedings of the Sixth conference on Computer Systems*,
      EuroSys '11, pages 139-152, New York, NY, USA, 2011. ACM.
+ 1. Christian Grothoff, Krista Grothoff, Ryan Stutsman, Ludmila Alkhutova, and Mikhail J. Atallah.
+    [Translation-based Steganography.]("http://iospress.metapress.com/content/j97333w402k26404/")
+    *Journal of Computer Security*, 17(3):269-303, 2009.
  1. Ryan Stutsman, Mikhail Atallah, Christian Grothoff, and Krista Grothoff.
     [Lost in Just the Translation.](papers/lijtt.pdf)
     In *Proceedings of the 2006 ACM Symposium on Applied Computing*,
@@ -202,12 +205,11 @@ Note to self: The missing one is the RAMCloud TR. But it is irrelevant given SIG
     Stephen M. Rumble, Eric Stratmann, and Ryan Stutsman.
     [The Case for RAMClouds: Scalable High-Performance Storage Entirely in DRAM.](http://doi.acm.org/10.1145/1713254.1713276)
     *SIGOPS Operating Systems Review*, 43(4):92-105, December 2009.
- 1. Christian Grothoff, Krista Grothoff, Ryan Stutsman, Ludmila Alkhutova, and Mikhail J. Atallah.
-    [Translation-based Steganography.]("http://iospress.metapress.com/content/j97333w402k26404/")
-    *Journal of Computer Security*, 17(3):269-303, 2009.
+{% comment %}
  1.  Christian Grothoff, Krista Grothoff, Ludmila Alkhutova, Ryan Stutsman, and Mikhail Atallah.
      [Translation-Based Steganography.](https://www.cerias.purdue.edu/assets/pdf/bibtex_archive/2005-39.pdf)
       Technical Report CSD TR 05-009, Purdue University, 2005.
+{% endcomment %}
 
 ## Dissertation
 
