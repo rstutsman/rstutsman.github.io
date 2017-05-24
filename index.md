@@ -184,19 +184,12 @@ Before that, I earned my Ph.D. at Stanford University working as a part of the
      IH 2005, pages 213-233. Springer-Verlag, 2005.
 
 ## Unrefereed publications and technical reports
-{% comment %}
-Note to self: The missing one is the RAMCloud TR. But it is irrelevant given SIGOPS version.
-{% endcomment %}
  1. Chinmay Kulkarni, Aniraj Kesavan, Robert Ricci, and Ryan Stutsman.
     [Beyond Simple Request Processing with RAMCloud.](http://sites.computer.org/debull/A17mar/p62.pdf)
     IEEE Data Engineering Bulletin, March 2017.
  1. Justin Levandoski, Sudipta Sengupta, Ryan Stutsman, and Rui Wang.
     [Transaction Processing Techniques for Modern Hardware and the Cloud.](http://sites.computer.org/debull/A15mar/p50.pdf)
     IEEE Data Engineering Bulletin, March 2015.
- 1.  Arjun Roy, Stephen M. Rumble, Ryan Stutsman, Philip Levis, David Mazi&egrave;res,
-     and Nickolai Zeldovich.
-     [Energy Management in Mobile Devices with the Cinder Operating System.](http://hci.stanford.edu/cstr/reports/2010-02.pdf)
-     Technical Report CSTR-2010-02, Stanford University, June 2010.
  1. Stephen M. Rumble, Ryan Stutsman, Philip Levis, David Mazi&egrave;res, and Nickolai Zeldovich.
     [Apprehending Joule Thieves with Cinder.]("papers/rumble-cinder-ccr.pdf")
     *SIGCOMM Computer Communication Review*, 40(1):106-111, 2010.
@@ -206,9 +199,14 @@ Note to self: The missing one is the RAMCloud TR. But it is irrelevant given SIG
     [The Case for RAMClouds: Scalable High-Performance Storage Entirely in DRAM.](http://doi.acm.org/10.1145/1713254.1713276)
     *SIGOPS Operating Systems Review*, 43(4):92-105, December 2009.
 {% comment %}
+Note to self: The missing one is the RAMCloud TR. But it is irrelevant given SIGOPS version.
  1.  Christian Grothoff, Krista Grothoff, Ludmila Alkhutova, Ryan Stutsman, and Mikhail Atallah.
      [Translation-Based Steganography.](https://www.cerias.purdue.edu/assets/pdf/bibtex_archive/2005-39.pdf)
       Technical Report CSD TR 05-009, Purdue University, 2005.
+ 1.  Arjun Roy, Stephen M. Rumble, Ryan Stutsman, Philip Levis, David Mazi&egrave;res,
+     and Nickolai Zeldovich.
+     [Energy Management in Mobile Devices with the Cinder Operating System.](http://hci.stanford.edu/cstr/reports/2010-02.pdf)
+     Technical Report CSTR-2010-02, Stanford University, June 2010.
 {% endcomment %}
 
 ## Dissertation
