@@ -108,7 +108,7 @@ Before that, I earned my Ph.D. at Stanford University working as a part of the
     Behnam Montazeri, Diego Ongaro, Seo Jin Park, Henry Qin, Mendel Rosenblum,
     Stephen Rumble, Ryan Stutsman, Stephen Yang
     [The RAMCloud Storage System.](http://dl.acm.org/ft_gateway.cfm?id=2806887&type=pdf)
-    In *ACM Transactions on Computer Systems*, TOCS.
+    In *ACM Transactions on Computer Systems*, TOCS 2015.
  1. Darko Makreshanski, Justin Levandoski, Ryan Stutsman.
     [To Lock, Swap, or Elide: On the Interplay of Hardware Transactional Memory and Lock-Free Indexing.](http://www.vldb.org/pvldb/vol8/p1298-makreshanski.pdf)
     In *Proceedings of the VLDB Endowment*, VLDB 2015.
