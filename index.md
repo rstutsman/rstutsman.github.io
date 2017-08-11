@@ -58,7 +58,7 @@ Before that, I earned my Ph.D. at Stanford University working as a part of the
  
 # <a name="teaching"></a> Teaching
 
-- [CS6963 Fall 2017 - Distributed Systems](http://www.cs.utah.edu/~stutsman/cs6963/)
+- [CS6450 Fall 2017 - Distributed Systems](http://www.cs.utah.edu/~stutsman/cs6450/)
 - [CS6963 Fall 2016 - Distributed Systems](http://www.cs.utah.edu/~stutsman/cs6963/)
 - [CS5460/6460 Spring 2016 - Operating Systems](http://utah.instructure.com/courses/364658)
 - [CS6963 Fall 2015 - Distributed Systems](http://www.cs.utah.edu/~stutsman/cs6963/)
