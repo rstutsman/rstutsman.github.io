@@ -98,6 +98,9 @@ Before that, I earned my Ph.D. at Stanford University working as a part of the
 
 ## Refereed conference and journal publications
 
+ 1. Chinmay Kulkarni, Aniraj Kesavan, Tian Zhang, Robert Ricci, and Ryan Stutsman.
+    Rocksteady: Fast Migration for Low-latency In-memory Storage.
+    To appear in *Proceedings of the Twenty-Sixth ACM Symposium on Operating Systems Principles*, SOSP'17.
  1. Asaf Cidon, Daniel Rushton, Stephen M. Rumble, and Ryan Stutsman.
     [Memshare: Memory Resource Sharing in Multi-tenant Web Caches.](http://www.usenix.org/conference/atc17/program/presentation/cidon)
     In *Proceedings of the 2017 USENIX Conference on Annual Technical Conference*, USENIX ATC'17.
