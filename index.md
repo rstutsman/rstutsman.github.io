@@ -50,10 +50,13 @@ Before that, I earned my Ph.D. at Stanford University working as a part of the
 # <a name="students"></a> Students
 
  - Current
+   - Mazhar Navi, PhD 2023 expected
    - Chinmay Kulkarni, PhD 2021 expected
    - Tian Zhang, PhD 2020 expected
-   - Mohammed Al-Mahfoudh, PhD 2017 expected (Co-advised with Ganesh Gopalakrishnan)
+   - Joe Novak, PhD 2018 expected (Co-advised with Sneha Kasera)
+   - Mohammed Al-Mahfoudh, PhD 2018 expected (Co-advised with Ganesh Gopalakrishnan)
  - Alumni
+   - Sara Adamson, BS 2018
    - Aniraj Kesavan, MS 2017
  
 # <a name="teaching"></a> Teaching
