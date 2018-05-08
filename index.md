@@ -61,9 +61,12 @@ Before that, I earned my Ph.D. at Stanford University working as a part of the
  
 # <a name="teaching"></a> Teaching
 
+- [CS6450 Fall 2018 - Distributed Systems](http://www.cs.utah.edu/~stutsman/cs6450/)
+- [CS5460/6460 Spring 2018 - Operating Systems](https://utah.instructure.com/courses/475520)
 - [CS6450 Fall 2017 - Distributed Systems](http://www.cs.utah.edu/~stutsman/cs6450/)
 - [CS6963 Fall 2016 - Distributed Systems](http://www.cs.utah.edu/~stutsman/cs6963/)
 - [CS5460/6460 Spring 2016 - Operating Systems](http://utah.instructure.com/courses/364658)
+  - 2016-2017 University of Utah School of Computing Outstanding Teaching Award.
 - [CS6963 Fall 2015 - Distributed Systems](http://www.cs.utah.edu/~stutsman/cs6963/)
 
 # <a name="projects"></a> Projects
@@ -245,12 +248,18 @@ PhD thesis, Stanford University, Stanford, CA, USA, December 2013.
 
 # <a name="activities"></a> Activities
 
- - VLDB 2017 Industrial Track PC member
- - SIGMOD 2017 PC member (Distinguished PC member award)
- - SIGMOD 2016 Demo Committee
- - ICDE 2016 PC member
- - IMDM 2014, 2015, 2016 PC member
+ - NSF Panelist 2017, 2018
+ - OSDI 2018 PC member
+ - ICDCS 2018 PC member
  - SIGMETRICS 2015 PC member
+ - SIGMOD 2017, 2018 PC member (2017 Distinguished PC member award)
+ - IEEE TKDE 2018 Reviewer
+ - SIGMOD TODS 2018 Reviewer
+ - VLDB 2017 Industrial Track PC member
+ - SIGMOD 2016 Demo Committee
+ - ICDE 2016, 2018 PC member
+ - EDBT 2018 PC member
+ - IMDM 2014, 2015, 2016 PC member
 
  - University of Utah School of Computing Graduate Admit Visit Day Coordinator 2017 - present  
  - University of Utah School of Computing Undergraduate Student Advisory Committee Faculty Advisor 2015 - present
