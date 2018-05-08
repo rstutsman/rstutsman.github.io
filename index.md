@@ -98,6 +98,12 @@ Before that, I earned my Ph.D. at Stanford University working as a part of the
 
 ## Refereed conference and journal publications
 
+ 1. Yacine Taleb, Ryan Stutsman, Gabriel Antoniu, and Toni Cortes.
+    [Tailwind: Fast and Atomic RDMA-based Replication.](https://www.usenix.org/conference/atc18/presentation/taleb)
+    In *Proceedings of the 2018 USENIX Annual Technical Conference*, USENIX ATC '18.
+ 1. Tao Zhu, Zhuoyue Zhao, Feifei Li, Weining Qian, Aoying Zhou, Dong Xie, Ryan Stutsman, Haining Li, and Huiqi Hu.
+    [Towards a Shared-Everything Database on Distributed Log-Structured Storage.](https://www.usenix.org/conference/atc18/presentation/zhu)
+    In *Proceedings of the 2018 USENIX Annual Technical Conference*, USENIX ATC '18.
  1. Chinmay Kulkarni, Aniraj Kesavan, Tian Zhang, Robert Ricci, and Ryan Stutsman.
     Rocksteady: Fast Migration for Low-latency In-memory Storage.
     To appear in *Proceedings of the Twenty-Sixth ACM Symposium on Operating Systems Principles*, SOSP'17.
