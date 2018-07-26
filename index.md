@@ -21,10 +21,12 @@ University of Utah<br>
 [Activities](#activities) -
 [Blog](./blog/)
 
+<!--
 *I am looking for Ph.D. students in the data center, cloud, and large-scale
 storage area. If you are an admitted or current University of Utah CS student
 feel free to contact me. Otherwise, apply to the [Utah SoC PhD
 program](http://www.cs.utah.edu).*
+-->
 
 I am an Assistant Professor and head of the [Scalable Software Systems Lab](http://www.utah.systems/)
 in the [School of Computing](http://www.cs.utah.edu/)
@@ -104,6 +106,9 @@ Before that, I earned my Ph.D. at Stanford University working as a part of the
 
 ## Refereed conference and journal publications
 
+ 1. Binh Nguyen, Tian Zhang, Bozidar Radunovic, Ryan Stutsman, Thomas Karagiannis, Jakub Kocur, and Jacobus Van der Merwe.
+    [ECHO: A Reliable Distributed Cellular Core Network for Hyper-scale Public Clouds](https://sigmobile.org/mobicom/2018/program.php)
+    In *Proceedings of the 24th Annual International Conference on Mobile Computing and Networking*, Mobicom'18.
  1. Yacine Taleb, Ryan Stutsman, Gabriel Antoniu, and Toni Cortes.
     [Tailwind: Fast and Atomic RDMA-based Replication.](https://www.usenix.org/conference/atc18/presentation/taleb)
     In *Proceedings of the 2018 USENIX Annual Technical Conference*, USENIX ATC '18.
@@ -231,6 +236,8 @@ PhD thesis, Stanford University, Stanford, CA, USA, December 2013.
 
 # <a name="talks"></a> Talks
 
+ 1. Massive Main Memory for the Masses.  
+    Invited Talk, EPFL, 2018.
  1. [Multi-version Range Concurrency Control in Deuteronomy.](http://www.vldb.org/pvldb/vol8/p2146-levandoski.pdf)
     VLDB 2016.
  1. [Experience with Rules-Based Programming for Distributed, Concurrent, Fault-Tolerant Code.](https://www.usenix.org/system/files/conference/atc15/atc15-paper-stutsman.pdf)
