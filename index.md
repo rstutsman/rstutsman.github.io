@@ -58,6 +58,7 @@ Before that, I earned my Ph.D. at Stanford University working as a part of the
    - Joe Novak, PhD 2018 expected (Co-advised with Sneha Kasera)
    - Mohammed Al-Mahfoudh, PhD 2018 expected (Co-advised with Ganesh Gopalakrishnan)
  - Alumni
+   - Aaron Langford, BS 2018
    - Sara Adamson, BS 2018
    - Aniraj Kesavan, MS 2017
  
@@ -255,11 +256,13 @@ PhD thesis, Stanford University, Stanford, CA, USA, December 2013.
 
 # <a name="activities"></a> Activities
 
+ - Dagstuhl "Database Architectures for Modern Hardware" Seminar Attendee, 2018
  - NSF Panelist 2017, 2018
+ - NSDI 2019 PC member
  - OSDI 2018 PC member
  - ICDCS 2018 PC member
  - SIGMETRICS 2015 PC member
- - SIGMOD 2017, 2018 PC member (2017 Distinguished PC member award)
+ - SIGMOD 2017, 2018 PC member (2017, 2018 Distinguished PC member award)
  - IEEE TKDE 2018 Reviewer
  - SIGMOD TODS 2018 Reviewer
  - VLDB 2017 Industrial Track PC member
