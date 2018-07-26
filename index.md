@@ -237,7 +237,7 @@ PhD thesis, Stanford University, Stanford, CA, USA, December 2013.
 
 # <a name="talks"></a> Talks
 
- 1. Massive Main Memory for the Masses.  
+ 1. Massive Main Memory for the Masses.
     Invited Talk, EPFL, 2018.
  1. [Multi-version Range Concurrency Control in Deuteronomy.](http://www.vldb.org/pvldb/vol8/p2146-levandoski.pdf)
     VLDB 2016.
