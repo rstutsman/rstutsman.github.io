@@ -107,8 +107,14 @@ Before that, I earned my Ph.D. at Stanford University working as a part of the
 
 ## Refereed conference and journal publications
 
+ 1. Chinmay Kulkarni, Sara Moore, Mazhar Naqvi, Tian Zhang, Robert Ricci, and Ryan Stutsman.
+    [Splinter: Bare-Metal Extensions for Multi-Tenant Low-Latency Storage.](https://www.usenix.org/node/222600)
+    In *Proceedings of the 13th USENIX Symposium on Operating Systems Design and Implementation*, OSDI '18.
+ 1. Aleksander Maricq, Dmitry Duplyakin, Ivo Jimenez, Carlos Maltzahn, Ryan Stutsman, and Robert Ricci.
+    [Taming Performance Variability.](https://www.usenix.org/node/222562)
+    In *Proceedings of the 13th USENIX Symposium on Operating Systems Design and Implementation*, OSDI '18.
  1. Binh Nguyen, Tian Zhang, Bozidar Radunovic, Ryan Stutsman, Thomas Karagiannis, Jakub Kocur, and Jacobus Van der Merwe.
-    [ECHO: A Reliable Distributed Cellular Core Network for Hyper-scale Public Clouds](https://sigmobile.org/mobicom/2018/program.php)
+    [ECHO: A Reliable Distributed Cellular Core Network for Hyper-scale Public Clouds.](https://sigmobile.org/mobicom/2018/program.php)
     In *Proceedings of the 24th Annual International Conference on Mobile Computing and Networking*, Mobicom'18.
  1. Yacine Taleb, Ryan Stutsman, Gabriel Antoniu, and Toni Cortes.
     [Tailwind: Fast and Atomic RDMA-based Replication.](https://www.usenix.org/conference/atc18/presentation/taleb)
@@ -170,6 +176,12 @@ Before that, I earned my Ph.D. at Stanford University working as a part of the
     pages 338-345. ACM, April 2006.
 
 ## Refereed workshop publications
+ 1. Jared Plumb, Sneha Kasera, and Ryan Stutsman.
+    Hybrid Network Clusters Using Common Gameplay for Massively Multiplayer Online Games.
+    In *Foundations of Digital Games*, FDG '18, 2018.
+ 1. Jared Plumb and Ryan Stutsman.
+    Exploiting Google’s Edge Network for Massively Multiplayer Online Games.
+    In *IEEE 2nd International Conference on Fog and Edge Computing*, ICFEC '18, 2018.
  1. Tian Zhang and Ryan Stutsman.
     JavaScript for Extending Low-latency In-memory Key-value Stores.
     In *Proceedings of the 9th USENIX Conference on Hot Topics in Cloud Computing*, HotCloud’17.
@@ -256,19 +268,19 @@ PhD thesis, Stanford University, Stanford, CA, USA, December 2013.
 
 # <a name="activities"></a> Activities
 
- - Dagstuhl "Database Architectures for Modern Hardware" Seminar Attendee, 2018
+ - Dagstuhl "Database Architectures for Modern Hardware" Seminar Participant, 2018
  - NSF Panelist 2017, 2018
  - NSDI 2019 PC member
  - OSDI 2018 PC member
  - ICDCS 2018 PC member
- - SIGMETRICS 2015 PC member
  - SIGMOD 2017, 2018 PC member (2017, 2018 Distinguished PC member award)
  - IEEE TKDE 2018 Reviewer
  - SIGMOD TODS 2018 Reviewer
  - VLDB 2017 Industrial Track PC member
  - SIGMOD 2016 Demo Committee
- - ICDE 2016, 2018 PC member
  - EDBT 2018 PC member
+ - ICDE 2016, 2018 PC member
+ - SIGMETRICS 2015 PC member
  - IMDM 2014, 2015, 2016 PC member
 
  - University of Utah School of Computing Graduate Admit Visit Day Coordinator 2017 - present  
