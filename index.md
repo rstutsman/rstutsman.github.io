@@ -46,7 +46,7 @@ Formerly, I was a Postdoctoral Researcher in the
 [databases group](http://research.microsoft.com/en-us/groups/db/) at
 [Microsoft Research](http://research.microsoft.com/).
 Before that, I earned my Ph.D. at Stanford University working as a part of the
-[RAMCloud](https://ramcloud.stanford.edu/) and the
+[RAMCloud](http://ramcloud.stanford.edu/) and the
 [Secure Computer Systems](http://www.scs.stanford.edu/) labs.
 
 # <a name="students"></a> Students
@@ -76,7 +76,7 @@ Before that, I earned my Ph.D. at Stanford University working as a part of the
 
 ## Current
 
- - [Sandstorm/Splinter](https://sandstorm.utah.systems/) - A multi-tenant
+ - [Sandstorm/Splinter](http://sandstorm.utah.systems/) - A multi-tenant
    in-memory key-value store that operates on microsecond time scales with
    millions of operation per second while letting mutually distrusting tenants
    push extensions to it at runtime to customize its operations and data model.
