@@ -76,15 +76,19 @@ Before that, I earned my Ph.D. at Stanford University working as a part of the
 
 ## Current
 
- - [RAMCloud](http://ramcloud.stanford.edu/) - A high-performance distributed
-   key-value storage system designed with latency goals to enable the next
-   generation of data center applications.
+ - [Sandstorm/Splinter](https://sandstorm.utah.systems/) - A multi-tenant
+   in-memory key-value store that operates on microsecond time scales with
+   millions of operation per second while letting mutually distrusting tenants
+   push extensions to it at runtime to customize its operations and data model.
  - [LSM-SIM](https://github.com/utah-scs/lsm-sim) - A trace-driven web cache
    simulator designed to simulate common and advanced eviction and memory
    management policies for large-scale in-memory caches, like memcached.
 
 ## Past
 
+ - [RAMCloud](http://ramcloud.stanford.edu/) - A high-performance distributed
+   key-value storage system designed with latency goals to enable the next
+   generation of data center applications.
  - [Deuteronomy](http://research.microsoft.com/en-us/groups/db/) - A fully lock-free
    transactional database engine that is performance competitive with modern
    in-memory databases. Deuteronomy maintains clean architectural separation of
