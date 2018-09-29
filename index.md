@@ -58,9 +58,9 @@ Before that, I earned my Ph.D. at Stanford University working as a part of the
    - Joe Novak, PhD 2018 expected (Co-advised with Sneha Kasera)
    - Mohammed Al-Mahfoudh, PhD 2018 expected (Co-advised with Ganesh Gopalakrishnan)
  - Alumni
-   - Aaron Langford, BS 2018
-   - Sara Adamson, BS 2018
-   - Aniraj Kesavan, MS 2017
+   - Aaron Langford, BS 2018, now at Instructure
+   - Sara More (Adamson), BS 2018, now at InsideSales
+   - Aniraj Kesavan, MS 2017, now at LinkedIn
  
 # <a name="teaching"></a> Teaching
 
