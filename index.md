@@ -81,7 +81,7 @@ Before that, I earned my Ph.D. at Stanford University working as a part of the
    in-memory key-value store that operates on microsecond time scales with
    millions of operation per second while letting mutually distrusting tenants
    push extensions to it at runtime to customize its operations and data model.
- - [LSM-SIM](https://github.com/utah-scs/lsm-sim) - A trace-driven web cache
+ - [LSM-SIM](https://github.com/utah-scs/lsm-sim/) - A trace-driven web cache
    simulator designed to simulate common and advanced eviction and memory
    management policies for large-scale in-memory caches, like memcached.
 
@@ -254,6 +254,8 @@ PhD thesis, Stanford University, Stanford, CA, USA, December 2013.
 
 # <a name="talks"></a> Talks
 
+ 1. Massive Main Memory for the Masses.
+    Invited Talk, INRIA Rennes, 2018.
  1. Massive Main Memory for the Masses.
     Invited Talk, EPFL, 2018.
  1. [Multi-version Range Concurrency Control in Deuteronomy.](http://www.vldb.org/pvldb/vol8/p2146-levandoski.pdf)
