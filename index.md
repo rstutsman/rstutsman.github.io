@@ -112,12 +112,18 @@ Before that, I earned my Ph.D. at Stanford University working as a part of the
 
 ## Refereed conference and journal publications
 
+ 1. Assaf Eisenman, Asaf Cidon, Evgenya Pergament, Or Haimovich, Ryan Stutsman, Mohammad Alizadeh, and Sachin Katti.
+    [Flashield: a Hybrid Key-value Cache that Controls Flash Write Amplification.](https://www.usenix.org/conference/nsdi19/presentation/eisenman)
+    In *Proceedings of the 13th USENIX Symposium on Networked Systems Design and Implementation*, NSDI '19.
  1. Chinmay Kulkarni, Sara Moore, Mazhar Naqvi, Tian Zhang, Robert Ricci, and Ryan Stutsman.
     [Splinter: Bare-Metal Extensions for Multi-Tenant Low-Latency Storage.](https://www.usenix.org/node/222600)
     In *Proceedings of the 13th USENIX Symposium on Operating Systems Design and Implementation*, OSDI '18.
  1. Aleksander Maricq, Dmitry Duplyakin, Ivo Jimenez, Carlos Maltzahn, Ryan Stutsman, and Robert Ricci.
     [Taming Performance Variability.](https://www.usenix.org/node/222562)
     In *Proceedings of the 13th USENIX Symposium on Operating Systems Design and Implementation*, OSDI '18.
+ 1. Junguk Cho, Ryan Stutsman, and Jacobus Van der Merwe.
+    [MobileStream: A Scalable, Programmable and Evolvable Mobile Core Control Plane Platform.](https://www.flux.utah.edu/paper/277)
+    In *14th International Conference on emerging Networking EXperiments and Technologies*, CoNEXT'18.
  1. Binh Nguyen, Tian Zhang, Bozidar Radunovic, Ryan Stutsman, Thomas Karagiannis, Jakub Kocur, and Jacobus Van der Merwe.
     [ECHO: A Reliable Distributed Cellular Core Network for Hyper-scale Public Clouds.](https://sigmobile.org/mobicom/2018/program.php)
     In *Proceedings of the 24th Annual International Conference on Mobile Computing and Networking*, Mobicom'18.
