@@ -53,7 +53,7 @@ Before that, I earned my Ph.D. at Stanford University working as a part of the
 
  - Current
    - Ankit Bhardwaj, PhD 2023 expected
-   - Mazhar Navi, PhD 2023 expected
+   - Mazhar Naqvi, PhD 2023 expected
    - Chinmay Kulkarni, PhD 2021 expected
    - Tian Zhang, PhD 2020 expected
    - Joe Novak, PhD 2018 expected (Co-advised with Sneha Kasera)
