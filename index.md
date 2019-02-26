@@ -112,6 +112,11 @@ Before that, I earned my Ph.D. at Stanford University working as a part of the
 
 ## Refereed conference and journal publications
 
+1. Gustavo Alonso, Carsten Binnig, Ippokratis Pandis, Kenneth Salem, Jan
+   Skrzypczak, Ryan Stutsman, Lasse Thostrup, Tianzheng Wang, Zeke Wang, Tobias
+   Ziegler.
+   [DPI: The Data Processing Interface for Modern Networks.](http://cidrdb.org/cidr2019/papers/p11-alonso-cidr19.pdf)
+    *Conference on Innovative Data Systems Research*, CIDR 2019.
  1. Assaf Eisenman, Asaf Cidon, Evgenya Pergament, Or Haimovich, Ryan Stutsman, Mohammad Alizadeh, and Sachin Katti.
     [Flashield: a Hybrid Key-value Cache that Controls Flash Write Amplification.](https://www.usenix.org/conference/nsdi19/presentation/eisenman)
     In *Proceedings of the 13th USENIX Symposium on Networked Systems Design and Implementation*, NSDI '19.
