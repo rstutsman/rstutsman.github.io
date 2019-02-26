@@ -121,7 +121,7 @@ Before that, I earned my Ph.D. at Stanford University working as a part of the
     [Flashield: a Hybrid Key-value Cache that Controls Flash Write Amplification.](https://www.usenix.org/conference/nsdi19/presentation/eisenman)
     In *Proceedings of the 13th USENIX Symposium on Networked Systems Design and Implementation*, NSDI '19.
  1. Joe Novak, Sneha Kumar Kasera and Ryan Stutsman.
-    [Cloud Functions for Fast and Robust Resource Auto-Scaling.]
+    [Cloud Functions for Fast and Robust Resource Auto-Scaling.](https://www.comsnets.org/archive/2019/accepted_papers.html)
     In *11th International Conference on Communication Systems & NetworkS*, COMSNETS 2019.
  1. Chinmay Kulkarni, Sara Moore, Mazhar Naqvi, Tian Zhang, Robert Ricci, and Ryan Stutsman.
     [Splinter: Bare-Metal Extensions for Multi-Tenant Low-Latency Storage.](https://www.usenix.org/node/222600)
