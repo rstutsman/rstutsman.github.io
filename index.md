@@ -8,18 +8,20 @@ layout: page
 <span style="font-size: 150%;">Ryan Stutsman</span><br>
 Assistant Professor<br>
 University of Utah<br>
-<a href="mailto:stutsman@cs.utah.edu">stutsman@cs.utah.edu</a>
+<a href="mailto:stutsman@cs.utah.edu">stutsman@cs.utah.edu</a><br>
+<a href="{{ site.baseurl }}/public/cv-stutsman.pdf">Curriculum Vitæ</a>
 </div>
 </div>
 
 <p></p>
 
+[Curriculum Vitæ]({{ site.baseurl }}/public/cv-stutsman.pdf) -
 [Teaching](#teaching) -
 [Projects](#projects) -
 [Publications](#publications) -
 [Talks](#talks) -
 [Activities](#activities) -
-[Blog](./blog/)
+<!--[Blog](./blog/)-->
 
 <!--
 *I am looking for Ph.D. students in the data center, cloud, and large-scale
@@ -65,6 +67,8 @@ Before that, I earned my Ph.D. at Stanford University working as a part of the
  
 # <a name="teaching"></a> Teaching
 
+- CS6465 Fall 2019 - Advanced Operating Systems
+- [CS5460/6460 Spring 2019 - Operating Systems](https://utah.instructure.com/courses/539884)
 - [CS6450 Fall 2018 - Distributed Systems](http://www.cs.utah.edu/~stutsman/cs6450/)
 - [CS5460/6460 Spring 2018 - Operating Systems](https://utah.instructure.com/courses/475520)
 - [CS6450 Fall 2017 - Distributed Systems](http://www.cs.utah.edu/~stutsman/cs6450/)
@@ -268,7 +272,7 @@ PhD thesis, Stanford University, Stanford, CA, USA, December 2013.
 
 # <a name="talks"></a> Talks
 
- 1. Massive Main Memory for the Masses.
+ 1. Bare-Metal Extensions for Multi-Tenant Low-Latency Storage.
     Invited Talk, INRIA Rennes, 2018.
  1. Massive Main Memory for the Masses.
     Invited Talk, EPFL, 2018.
