@@ -20,7 +20,7 @@ University of Utah<br>
 [Projects](#projects) -
 [Publications](#publications) -
 [Talks](#talks) -
-[Activities](#activities) -
+[Activities](#activities)
 <!--[Blog](./blog/)-->
 
 <!--
