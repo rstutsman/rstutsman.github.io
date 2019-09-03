@@ -55,15 +55,16 @@ Before that, I earned my Ph.D. at Stanford University working as a part of the
 
  - Current
    - Ankit Bhardwaj, PhD 2023 expected
-   - Mazhar Naqvi, PhD 2023 expected
-   - Chinmay Kulkarni, PhD 2021 expected
+   - Mazhar Naqvi, MS 2019 expected
+   - Chinmay Kulkarni, PhD 2020 expected
    - Tian Zhang, PhD 2020 expected
-   - Joe Novak, PhD 2018 expected (Co-advised with Sneha Kasera)
-   - Mohammed Al-Mahfoudh, PhD 2018 expected (Co-advised with Ganesh Gopalakrishnan)
+   - Mohammed Al-Mahfoudh, PhD 2019 expected (Co-advised with Ganesh Gopalakrishnan)
  - Alumni
+   - Paridhi Baheti, MS 2019
    - Aaron Langford, BS 2018, now at Instructure
    - Sara Moore (Adamson), BS 2018, now at InsideSales
    - Aniraj Kesavan, MS 2017, now at LinkedIn
+   - Joe Novak, PhD 2018 (Co-advised with Sneha Kasera)
  
 # <a name="teaching"></a> Teaching
 
@@ -116,10 +117,21 @@ Before that, I earned my Ph.D. at Stanford University working as a part of the
 
 ## Refereed conference and journal publications
 
-1. Gustavo Alonso, Carsten Binnig, Ippokratis Pandis, Kenneth Salem, Jan
-   Skrzypczak, Ryan Stutsman, Lasse Thostrup, Tianzheng Wang, Zeke Wang, Tobias
-   Ziegler.
-   [DPI: The Data Processing Interface for Modern Networks.](http://cidrdb.org/cidr2019/papers/p11-alonso-cidr19.pdf)
+ 1. Tian Zhang, Dong Xie, Feifei Li, Ryan Stutsman.
+    Closing the Gap Between Serverless and its State with Storage Functions.
+    In *Proceedings of the ACM Symposium on Cloud Computing*, SoCC'19.  
+    **To appear**.
+ 1. Anirban Nag, C.N. Ramachandra, Rajeev Balasubramonian, Ryan Stutsman, Edouard Giacomin, Hari Kambalasubramanyam, Pierre-Emmanuel Gaillardon.
+    GenCache: Leveraging In-Cache Operators for Efficient Sequence Alignment.
+    In *Proceedings of the 52nd IEEE/ACM International Symposium on Microarchitecture*, MICRO'19.  
+    **To appear.**
+ 1. Tao Zhu, Zhuoyue Zhao, Feifei Li, Weining Qian, Aoying Zhou, Dong Xie, Ryan Stutsman, Haining Li, and Huiqi Hu.
+    [SolarDB: Toward a Shared-Everything Database on Distributed Log-Structured Storage.](https://dl.acm.org/citation.cfm?id=3318158)
+    In *ACM Transactions on Storage (TOS)*, June 2019.
+ 1. Gustavo Alonso, Carsten Binnig, Ippokratis Pandis, Kenneth Salem, Jan
+    Skrzypczak, Ryan Stutsman, Lasse Thostrup, Tianzheng Wang, Zeke Wang, Tobias
+    Ziegler.
+    [DPI: The Data Processing Interface for Modern Networks.](http://cidrdb.org/cidr2019/papers/p11-alonso-cidr19.pdf)
     *Conference on Innovative Data Systems Research*, CIDR 2019.
  1. Assaf Eisenman, Asaf Cidon, Evgenya Pergament, Or Haimovich, Ryan Stutsman, Mohammad Alizadeh, and Sachin Katti.
     [Flashield: a Hybrid Key-value Cache that Controls Flash Write Amplification.](https://www.usenix.org/conference/nsdi19/presentation/eisenman)
@@ -293,20 +305,38 @@ PhD thesis, Stanford University, Stanford, CA, USA, December 2013.
 
 # <a name="activities"></a> Activities
 
+ - FIRST Lego League Junior, Assistant Team Coach 2018-present.
+ - Oregon-Davis Junior/Senior High School; Invited STEM Career Speaker;
+       Hamlet, Indiana; 2015.
+ - University of Utah IT Professionals Meeting Invited Talk, "An Overview of Recent Speculative Execution Vulnerabilities", June 2019. 
+
+
+ - University of Utah Office of Undergraduate Research Undergraduate Research
+   Symposium Poster Judge, 2019 (2x)
+ - University of Utah School of Computing Mock Panel Participant 2019.
+ - University of Utah School of Computing Undergraduate Research Liason
+   2019-present
+ - University of Utah School of Computing Database Faculty Search Committee 2017.
+ - University of Utah School of Computing Graduate Admit Visit Day Coordinator
+   2017, 2018
+ - University of Utah School of Computing Ph.D. Admissions Committee 2014, 2015, 2016, 2018.
+ - University of Utah School of Computing Undergraduate Student Advisory
+   Committee Faculty Advisor 2015 - present
+
  - Dagstuhl "Database Architectures for Modern Hardware" Seminar Participant, 2018
- - NSF Panelist 2017, 2018
- - NSDI 2019 PC member
- - OSDI 2018 PC member
+ - NSF Panelist 2017, 2018, 2019x2
+ - OSDI 2018, 2020 PC member
+ - SOSP 2019 PC member
+ - NSDI 2019 PC member and Poster Chair
+ - HotCloud 2019 PC member
  - ICDCS 2018 PC member
- - SIGMOD 2017, 2018 PC member (2017, 2018 Distinguished PC member award)
- - IEEE TKDE 2018 Reviewer
- - SIGMOD TODS 2018 Reviewer
- - VLDB 2017 Industrial Track PC member
- - SIGMOD 2016 Demo Committee
  - EDBT 2018 PC member
  - ICDE 2016, 2018 PC member
+ - IEEE TKDE 2018 Reviewer
+ - SIGMOD TODS 2018 Reviewer
+ - SIGMOD 2017, 2018 PC member (2017, 2018 Distinguished PC member award)
+ - SIGMOD 2016 Demo Committee
+ - VLDB 2017 Industrial Track PC member
  - SIGMETRICS 2015 PC member
  - IMDM 2014, 2015, 2016 PC member
 
- - University of Utah School of Computing Graduate Admit Visit Day Coordinator 2017 - present  
- - University of Utah School of Computing Undergraduate Student Advisory Committee Faculty Advisor 2015 - present
