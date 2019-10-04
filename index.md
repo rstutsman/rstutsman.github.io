@@ -117,8 +117,8 @@ Before that, I earned my Ph.D. at Stanford University working as a part of the
 
 ## Refereed conference and journal publications
 
- 1. Tian Zhang, Dong Xie, Feifei Li, Ryan Stutsman.
-    Closing the Gap Between Serverless and its State with Storage Functions.
+ 1. Tian Zhang, Dong Xie, Feifei Li, and Ryan Stutsman.
+    Narrowing the Gap Between Serverless and its State with Storage Functions.
     In *Proceedings of the ACM Symposium on Cloud Computing*, SoCC'19.  
     **To appear**.
  1. Anirban Nag, C.N. Ramachandra, Rajeev Balasubramonian, Ryan Stutsman, Edouard Giacomin, Hari Kambalasubramanyam, Pierre-Emmanuel Gaillardon.
