@@ -82,7 +82,7 @@ Before that, I earned my Ph.D. at Stanford University working as a part of the
 
 ## Current
 
- - [Sandstorm/Splinter](http://sandstorm.utah.systems/) - A multi-tenant
+ - [Splinter](http://utah.systems/splinter/) - A multi-tenant
    in-memory key-value store that operates on microsecond time scales with
    millions of operation per second while letting mutually distrusting tenants
    push extensions to it at runtime to customize its operations and data model.
