@@ -54,13 +54,14 @@ Before that, I earned my Ph.D. at Stanford University working as a part of the
 # <a name="students"></a> Students
 
  - Current
+   - Amit Samanta, PhD 2024 expected
    - Ankit Bhardwaj, PhD 2023 expected
-   - Mazhar Naqvi, MS 2019 expected
    - Chinmay Kulkarni, PhD 2020 expected
    - Tian Zhang, PhD 2020 expected
    - Mohammed Al-Mahfoudh, PhD 2019 expected (Co-advised with Ganesh Gopalakrishnan)
  - Alumni
-   - Paridhi Baheti, MS 2019
+   - Mazhar Naqvi, MS 2019, now at Microsoft
+   - Paridhi Baheti, MS 2019, now at Microsoft
    - Aaron Langford, BS 2018, now at Instructure
    - Sara Moore (Adamson), BS 2018, now at InsideSales
    - Aniraj Kesavan, MS 2017, now at LinkedIn
@@ -68,7 +69,8 @@ Before that, I earned my Ph.D. at Stanford University working as a part of the
  
 # <a name="teaching"></a> Teaching
 
-- CS6465 Fall 2019 - Advanced Operating Systems
+- [CS5460/6460 Spring 2020 - Operating Systems](https://utah.instructure.com/courses/601363)
+- [CS6465 Fall 2019 - Advanced Operating Systems](https://utah.instructure.com/courses/573975)
 - [CS5460/6460 Spring 2019 - Operating Systems](https://utah.instructure.com/courses/539884)
 - [CS6450 Fall 2018 - Distributed Systems](http://www.cs.utah.edu/~stutsman/cs6450/)
 - [CS5460/6460 Spring 2018 - Operating Systems](https://utah.instructure.com/courses/475520)
@@ -118,13 +120,12 @@ Before that, I earned my Ph.D. at Stanford University working as a part of the
 ## Refereed conference and journal publications
 
  1. Tian Zhang, Dong Xie, Feifei Li, and Ryan Stutsman.
-    Narrowing the Gap Between Serverless and its State with Storage Functions.
+    [Narrowing the Gap Between Serverless and its State with Storage Functions.](http://utah.systems/projects/zhang_shredder)
     In *Proceedings of the ACM Symposium on Cloud Computing*, SoCC'19.  
-    **To appear**.
+    **Best Paper Runner Up**.
  1. Anirban Nag, C.N. Ramachandra, Rajeev Balasubramonian, Ryan Stutsman, Edouard Giacomin, Hari Kambalasubramanyam, Pierre-Emmanuel Gaillardon.
-    GenCache: Leveraging In-Cache Operators for Efficient Sequence Alignment.
+    [GenCache: Leveraging In-Cache Operators for Efficient Sequence Alignment.](https://dl.acm.org/doi/10.1145/3352460.3358308)
     In *Proceedings of the 52nd IEEE/ACM International Symposium on Microarchitecture*, MICRO'19.  
-    **To appear.**
  1. Tao Zhu, Zhuoyue Zhao, Feifei Li, Weining Qian, Aoying Zhou, Dong Xie, Ryan Stutsman, Haining Li, and Huiqi Hu.
     [SolarDB: Toward a Shared-Everything Database on Distributed Log-Structured Storage.](https://dl.acm.org/citation.cfm?id=3318158)
     In *ACM Transactions on Storage (TOS)*, June 2019.
