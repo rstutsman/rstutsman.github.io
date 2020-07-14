@@ -54,21 +54,22 @@ Before that, I earned my Ph.D. at Stanford University working as a part of the
 # <a name="students"></a> Students
 
  - Current
-   - Amit Samanta, PhD 2024 expected
-   - Ankit Bhardwaj, PhD 2023 expected
-   - Chinmay Kulkarni, PhD 2020 expected
-   - Tian Zhang, PhD 2020 expected
    - Mohammed Al-Mahfoudh, PhD 2019 expected (Co-advised with Ganesh Gopalakrishnan)
+   - Ankit Bhardwaj, PhD 2023 expected
+   - Meghana Gupta, MS 2021 expected
+   - Chinmay Kulkarni, PhD 2020 expected
+   - Amit Samanta, PhD 2024 expected
+   - Tian Zhang, PhD 2020 expected
  - Alumni
    - Mazhar Naqvi, MS 2019, now at Microsoft
    - Paridhi Baheti, MS 2019, now at Microsoft
    - Aaron Langford, BS 2018, now at Instructure
    - Sara Moore (Adamson), BS 2018, now at InsideSales
    - Aniraj Kesavan, MS 2017, now at LinkedIn
-   - Joe Novak, PhD 2018 (Co-advised with Sneha Kasera)
  
 # <a name="teaching"></a> Teaching
 
+- CS6450 Fall 2020 - Distributed Systems
 - [CS5460/6460 Spring 2020 - Operating Systems](https://utah.instructure.com/courses/601363)
 - [CS6465 Fall 2019 - Advanced Operating Systems](https://utah.instructure.com/courses/573975)
 - [CS5460/6460 Spring 2019 - Operating Systems](https://utah.instructure.com/courses/539884)
@@ -119,11 +120,14 @@ Before that, I earned my Ph.D. at Stanford University working as a part of the
 
 ## Refereed conference and journal publications
 
+ 1. Ankit Bhardwaj, Chinmay Kulkarni, and Ryan Stutsman.
+    [Adaptive Placement for In-memory Storage Functions.](https://www.usenix.org/conference/atc20/presentation/bhardwaj)
+    In *Proceedings of the 2020 USENIX Annual Technical Conference*, USENIX ATC '20.
  1. Tian Zhang, Dong Xie, Feifei Li, and Ryan Stutsman.
     [Narrowing the Gap Between Serverless and its State with Storage Functions.](http://utah.systems/projects/zhang_shredder)
     In *Proceedings of the ACM Symposium on Cloud Computing*, SoCC'19.  
     **Best Paper Runner Up**.
- 1. Anirban Nag, C.N. Ramachandra, Rajeev Balasubramonian, Ryan Stutsman, Edouard Giacomin, Hari Kambalasubramanyam, Pierre-Emmanuel Gaillardon.
+ 1. Anirban Nag, C.N. Ramachandra, Rajeev Balasubramonian, Ryan Stutsman, Edouard Giacomin, Hari Kambalasubramanyam, and Pierre-Emmanuel Gaillardon.
     [GenCache: Leveraging In-Cache Operators for Efficient Sequence Alignment.](https://dl.acm.org/doi/10.1145/3352460.3358308)
     In *Proceedings of the 52nd IEEE/ACM International Symposium on Microarchitecture*, MICRO'19.  
  1. Tao Zhu, Zhuoyue Zhao, Feifei Li, Weining Qian, Aoying Zhou, Dong Xie, Ryan Stutsman, Haining Li, and Huiqi Hu.
@@ -137,7 +141,7 @@ Before that, I earned my Ph.D. at Stanford University working as a part of the
  1. Assaf Eisenman, Asaf Cidon, Evgenya Pergament, Or Haimovich, Ryan Stutsman, Mohammad Alizadeh, and Sachin Katti.
     [Flashield: a Hybrid Key-value Cache that Controls Flash Write Amplification.](https://www.usenix.org/conference/nsdi19/presentation/eisenman)
     In *Proceedings of the 13th USENIX Symposium on Networked Systems Design and Implementation*, NSDI '19.
- 1. Joe Novak, Sneha Kumar Kasera and Ryan Stutsman.
+ 1. Joe Novak, Sneha Kumar Kasera, and Ryan Stutsman.
     [Cloud Functions for Fast and Robust Resource Auto-Scaling.](papers/feat.pdf)
     In *11th International Conference on Communication Systems & NetworkS*, COMSNETS 2019.
  1. Chinmay Kulkarni, Sara Moore, Mazhar Naqvi, Tian Zhang, Robert Ricci, and Ryan Stutsman.
@@ -212,6 +216,9 @@ Before that, I earned my Ph.D. at Stanford University working as a part of the
     pages 338-345. ACM, April 2006.
 
 ## Refereed workshop publications
+ 1. Ankit Bhardwaj, Meghana Gupta, and Ryan Stutsman.
+    [On the Impact of Isolation Costs on Locality-aware Cloud Scheduling.](https://www.usenix.org/conference/hotcloud20/presentation/bhardwaj)
+    In *12th USENIX Workshop on Hot Topics in Cloud Computing*, HotCloud '20.
  1. Jared Plumb, Sneha Kasera, and Ryan Stutsman.
     Hybrid Network Clusters Using Common Gameplay for Massively Multiplayer Online Games.
     In *Foundations of Digital Games*, FDG '18, 2018.
