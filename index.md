@@ -122,7 +122,15 @@ Before that, I earned my Ph.D. at Stanford University working as a part of the
 
  1. Ankit Bhardwaj, Chinmay Kulkarni, and Ryan Stutsman.
     [Adaptive Placement for In-memory Storage Functions.](https://www.usenix.org/conference/atc20/presentation/bhardwaj)
-    In *Proceedings of the 2020 USENIX Annual Technical Conference*, USENIX ATC '20.
+    In *Proceedings of the 2020 USENIX Annual Technical Conference*, USENIX ATC '20.  
+    **To appear**.
+ 1. Joe Novak,  Ryan Stutsman, and  Sneha Kumar Kasera.
+    Auto-Scaling Cloud-Based Memory-Intensive  Applications.
+    In 12th IEEE International Conference on Cloud Computing, IEEE CLOUD 2020.  
+    **To appear**.
+ 1. Meysam Taassori, Rajeev Balasubramonian, Siddhartha Chhabra, Alaa Alameldeen, Manjula Peddireddy, Rajat Agarwal, and Ryan Stutsman. 
+    [Compact Leakage-Free Support for Integrity and Reliability.](http://www.cs.utah.edu/~rajeev/pubs/isca20m.pdf)
+    In *Proceedings of the 47th International Symposium onComputer Architecture*, ISCA '20.
  1. Tian Zhang, Dong Xie, Feifei Li, and Ryan Stutsman.
     [Narrowing the Gap Between Serverless and its State with Storage Functions.](http://utah.systems/projects/zhang_shredder)
     In *Proceedings of the ACM Symposium on Cloud Computing*, SoCC'19.  
