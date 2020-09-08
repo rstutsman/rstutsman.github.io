@@ -89,12 +89,12 @@ Before that, I earned my Ph.D. at Stanford University working as a part of the
    in-memory key-value store that operates on microsecond time scales with
    millions of operation per second while letting mutually distrusting tenants
    push extensions to it at runtime to customize its operations and data model.
- - [LSM-SIM](https://github.com/utah-scs/lsm-sim/) - A trace-driven web cache
-   simulator designed to simulate common and advanced eviction and memory
-   management policies for large-scale in-memory caches, like memcached.
 
 ## Past
 
+ - [LSM-SIM](https://github.com/utah-scs/lsm-sim/) - A trace-driven web cache
+   simulator designed to simulate common and advanced eviction and memory
+   management policies for large-scale in-memory caches, like memcached.
  - [RAMCloud](http://ramcloud.stanford.edu/) - A high-performance distributed
    key-value storage system designed with latency goals to enable the next
    generation of data center applications.
@@ -120,14 +120,13 @@ Before that, I earned my Ph.D. at Stanford University working as a part of the
 
 ## Refereed conference and journal publications
 
- 1. Ankit Bhardwaj, Chinmay Kulkarni, and Ryan Stutsman.
-    [Adaptive Placement for In-memory Storage Functions.](https://www.usenix.org/conference/atc20/presentation/bhardwaj)
-    In *Proceedings of the 2020 USENIX Annual Technical Conference*, USENIX ATC '20.  
-    **To appear**.
  1. Joe Novak,  Ryan Stutsman, and  Sneha Kumar Kasera.
     Auto-Scaling Cloud-Based Memory-Intensive  Applications.
     In 12th IEEE International Conference on Cloud Computing, IEEE CLOUD 2020.  
     **To appear**.
+ 1. Ankit Bhardwaj, Chinmay Kulkarni, and Ryan Stutsman.
+    [Adaptive Placement for In-memory Storage Functions.](https://www.usenix.org/conference/atc20/presentation/bhardwaj)
+    In *Proceedings of the 2020 USENIX Annual Technical Conference*, USENIX ATC '20.  
  1. Meysam Taassori, Rajeev Balasubramonian, Siddhartha Chhabra, Alaa Alameldeen, Manjula Peddireddy, Rajat Agarwal, and Ryan Stutsman. 
     [Compact Leakage-Free Support for Integrity and Reliability.](http://www.cs.utah.edu/~rajeev/pubs/isca20m.pdf)
     In *Proceedings of the 47th International Symposium onComputer Architecture*, ISCA '20.
@@ -321,38 +320,60 @@ PhD thesis, Stanford University, Stanford, CA, USA, December 2013.
 
 # <a name="activities"></a> Activities
 
- - FIRST Lego League Junior, Assistant Team Coach 2018-present.
- - Oregon-Davis Junior/Senior High School; Invited STEM Career Speaker;
+- Outreach
+  - FIRST Lego League Junior, Assistant Team Coach 2018-present.
+  - Oregon-Davis Junior/Senior High School; Invited STEM Career Speaker;
        Hamlet, Indiana; 2015.
- - University of Utah IT Professionals Meeting Invited Talk, "An Overview of Recent Speculative Execution Vulnerabilities", June 2019. 
+  - University of Utah IT Professionals Meeting Invited Talk, "An Overview of
+   Recent Speculative Execution Vulnerabilities", June 2019. 
 
+- Department Service
+  - School of Computing Database Faculty Search Committee, 2017;
+  - University of Utah School of Computing Outstanding Teaching/TA Awards Selection Committee,
+AY ’17-’18;
+  - School of Computing Ph.D. Admissions Committee, 2014, 2015, 2016, 2018, 2020.
+  - College of Engineering Engineering Day Session Organizer, “Undergraduate Research in Computer Science”, 2020;
+  - School of Computing Mock Panel Participant, 2019, 2020;
+  - School of Computing Undergraduate Research Liaison, 2019-present;
+  - School of Computing Graduate Admit Visit Day Coordinator, 2017, 2018;
+  - School of Computing Undergraduate Advisory Committee (UGSAC) Faculty Advisor, 2015-present.
+- College Service
+  - College of Engineering Scholarship Committee, 2019, 2020;
+  - College of Engineering Orientation Panel, 2019 (3×), 2020.
+- University Service
+  - Office of Undergraduate Research Undergraduate Research Symposium Poster Judge, 2019 (2×).
 
- - University of Utah Office of Undergraduate Research Undergraduate Research
-   Symposium Poster Judge, 2019 (2x)
- - University of Utah School of Computing Mock Panel Participant 2019.
- - University of Utah School of Computing Undergraduate Research Liason
-   2019-present
- - University of Utah School of Computing Database Faculty Search Committee 2017.
- - University of Utah School of Computing Graduate Admit Visit Day Coordinator
-   2017, 2018
- - University of Utah School of Computing Ph.D. Admissions Committee 2014, 2015, 2016, 2018.
- - University of Utah School of Computing Undergraduate Student Advisory
-   Committee Faculty Advisor 2015 - present
+- NSF Panelist 2017, 2018, 2019x2
 
- - Dagstuhl "Database Architectures for Modern Hardware" Seminar Participant, 2018
- - NSF Panelist 2017, 2018, 2019x2
- - OSDI 2018, 2020 PC member
- - SOSP 2019 PC member
- - NSDI 2019 PC member and Poster Chair
- - HotCloud 2019 PC member
- - ICDCS 2018 PC member
- - EDBT 2018 PC member
- - ICDE 2016, 2018 PC member
- - IEEE TKDE 2018 Reviewer
- - SIGMOD TODS 2018 Reviewer
- - SIGMOD 2017, 2018 PC member (2017, 2018 Distinguished PC member award)
- - SIGMOD 2016 Demo Committee
- - VLDB 2017 Industrial Track PC member
- - SIGMETRICS 2015 PC member
- - IMDM 2014, 2015, 2016 PC member
+- Conference Organization
+  -  HotCloud ’20 Program Co-chair, 22 paper program selected from 95 submissions;
+  -  OSDI’20 Artifact Evaluation Committee Co-chair, 53 artifact submissions;
+  -  NSDI ’19 Poster Co-chair, 48 posters;
+  -  NSDI ’19 Session Chair;
+  -  HotCloud ’17 Session Chair;
+  - VLDB ’16 Session Chair.
+
+- Conference Reviewing
+  - SOSP ’19, ’21;
+  - OSDI ’18, ’20 (Heavy Member);
+  - NSDI’19, ’21;
+  - USENIX ATC ’19;
+  - HotCloud ’19 (Workshop);
+  - ICDCS ’18;
+  - EDBT ’18;
+  - ICDE ’18;
+  - SIGMOD ’17, ’18, (Awarded Distinguished Program Committee Member both times);
+  - VLDB ’17 Industrial Track;
+  - SIGMOD ’16 Demo Committee;
+  - ICDE ’16;
+  - IMDM ’14, ’15, ’16 (Workshop);
+  - SIGMETRICS ’15.
+
+- Journal Reviewing
+  - ACM Transactions on Storage (TOS);
+  - IEEE Transactions on Cloud Computing (TOCC);
+  - ACM SIGMOD Transactions on Database Systems (TODS);
+  - IEEE Transactions on Knowledge and Data Engineering (TKDE);
+  - ACM SIGOPS Transactions on Computer Systems (TOCS).
+
 
