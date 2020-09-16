@@ -57,9 +57,9 @@ Before that, I earned my Ph.D. at Stanford University working as a part of the
    - Mohammed Al-Mahfoudh, PhD 2019 expected (Co-advised with Ganesh Gopalakrishnan)
    - Ankit Bhardwaj, PhD 2023 expected
    - Meghana Gupta, MS 2021 expected
-   - Chinmay Kulkarni, PhD 2020 expected
+   - Chinmay Kulkarni, PhD 2021 expected
    - Amit Samanta, PhD 2024 expected
-   - Tian Zhang, PhD 2020 expected
+   - Tian Zhang, PhD 2021 expected
  - Alumni
    - Mazhar Naqvi, MS 2019, now at Microsoft
    - Paridhi Baheti, MS 2019, now at Microsoft
