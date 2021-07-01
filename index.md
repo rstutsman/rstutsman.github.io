@@ -6,7 +6,7 @@ layout: page
 <img src="{{ site.baseurl }}/public/ryan-stutsman.jpg" alt="Headshot" width="25%" style="float: left;"/>
 <div style="float: left; padding-left: 20px;">
 <span style="font-size: 150%;">Ryan Stutsman</span><br>
-Assistant Professor<br>
+Associate Professor<br>
 University of Utah<br>
 <a href="mailto:stutsman@cs.utah.edu">stutsman@cs.utah.edu</a><br>
 <a href="{{ site.baseurl }}/public/cv-stutsman.pdf">Curriculum Vitæ</a>
@@ -30,7 +30,7 @@ feel free to contact me. Otherwise, apply to the [Utah SoC PhD
 program](http://www.cs.utah.edu).*
 -->
 
-I am an Assistant Professor and head of the [Scalable Software Systems Lab](http://www.utah.systems/)
+I am an Associate Professor and head of the [Scalable Software Systems Lab](http://www.utah.systems/)
 in the [School of Computing](http://www.cs.utah.edu/)
 at the [University of Utah](http://www.utah.edu/).
 My interests include Distributed Systems,
@@ -120,10 +120,15 @@ Before that, I earned my Ph.D. at Stanford University working as a part of the
 
 ## Refereed conference and journal publications
 
- 1. Joe Novak,  Ryan Stutsman, and  Sneha Kumar Kasera.
+ 1. Chinmay Kulkarni, Badrish Chandramouli, and Ryan Stutsman.  
+    [Achieving High Throughput and Elasticity in a Larger-than-Memory Store.](https://www.microsoft.com/en-us/research/publication/achieving-high-throughput-and-elasticity-in-a-larger-than-memory-store/)  
+    In *Proceedings of the VLDB Endowment*, VLDB 2021.
+ 1. Ankit Bhardwaj, Chinmay Kulkarni, Reto Achermann, Irina Calciu, Sanidhya Kashyap, Ryan Stutsman, Amy Tai and Gerd Zellweger.  
+    [NrOS: Effective Replication and Sharing in an Operating System.](https://www.usenix.org/conference/osdi21/presentation/bhardwaj)  
+    In *Proceedings of the 15th USENIX Symposium on Operating Systems Design and Implementation*, OSDI '21.
+ 1. Joe Novak,  Ryan Stutsman, and Sneha Kumar Kasera.  
     Auto-Scaling Cloud-Based Memory-Intensive  Applications.
     In 12th IEEE International Conference on Cloud Computing, IEEE CLOUD 2020.  
-    **To appear**.
  1. Ankit Bhardwaj, Chinmay Kulkarni, and Ryan Stutsman.
     [Adaptive Placement for In-memory Storage Functions.](https://www.usenix.org/conference/atc20/presentation/bhardwaj)
     In *Proceedings of the 2020 USENIX Annual Technical Conference*, USENIX ATC '20.  
@@ -223,6 +228,9 @@ Before that, I earned my Ph.D. at Stanford University working as a part of the
     pages 338-345. ACM, April 2006.
 
 ## Refereed workshop publications
+ 1. Yuhong Zhong, Hongyi Wang, Yu Jian Wu, Asaf Cidon, Ryan Stutsman, Amy Tai, and Junfeng Yang.  
+    [BPF for storage: an exokernel-inspired approach.](https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s07-zhong.pdf)  
+    Workshop on Hot Topics in Operating Systems HotOS' 21.
  1. Ankit Bhardwaj, Meghana Gupta, and Ryan Stutsman.
     [On the Impact of Isolation Costs on Locality-aware Cloud Scheduling.](https://www.usenix.org/conference/hotcloud20/presentation/bhardwaj)
     In *12th USENIX Workshop on Hot Topics in Cloud Computing*, HotCloud '20.
