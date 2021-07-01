@@ -120,11 +120,11 @@ Before that, I earned my Ph.D. at Stanford University working as a part of the
 
 ## Refereed conference and journal publications
 
- 1. Chinmay Kulkarni, Badrish Chandramouli, and Ryan Stutsman.  
-    [Achieving High Throughput and Elasticity in a Larger-than-Memory Store.](https://www.microsoft.com/en-us/research/publication/achieving-high-throughput-and-elasticity-in-a-larger-than-memory-store/)  
+ 1. Chinmay Kulkarni, Badrish Chandramouli, and Ryan Stutsman.
+    [Achieving High Throughput and Elasticity in a Larger-than-Memory Store.](https://www.microsoft.com/en-us/research/publication/achieving-high-throughput-and-elasticity-in-a-larger-than-memory-store/)
     In *Proceedings of the VLDB Endowment*, VLDB 2021.
- 1. Ankit Bhardwaj, Chinmay Kulkarni, Reto Achermann, Irina Calciu, Sanidhya Kashyap, Ryan Stutsman, Amy Tai and Gerd Zellweger.  
-    [NrOS: Effective Replication and Sharing in an Operating System.](https://www.usenix.org/conference/osdi21/presentation/bhardwaj)  
+ 1. Ankit Bhardwaj, Chinmay Kulkarni, Reto Achermann, Irina Calciu, Sanidhya Kashyap, Ryan Stutsman, Amy Tai and Gerd Zellweger.
+    [NrOS: Effective Replication and Sharing in an Operating System.](https://www.usenix.org/conference/osdi21/presentation/bhardwaj)
     In *Proceedings of the 15th USENIX Symposium on Operating Systems Design and Implementation*, OSDI '21.
  1. Joe Novak,  Ryan Stutsman, and Sneha Kumar Kasera.  
     Auto-Scaling Cloud-Based Memory-Intensive  Applications.
@@ -228,8 +228,8 @@ Before that, I earned my Ph.D. at Stanford University working as a part of the
     pages 338-345. ACM, April 2006.
 
 ## Refereed workshop publications
- 1. Yuhong Zhong, Hongyi Wang, Yu Jian Wu, Asaf Cidon, Ryan Stutsman, Amy Tai, and Junfeng Yang.  
-    [BPF for storage: an exokernel-inspired approach.](https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s07-zhong.pdf)  
+ 1. Yuhong Zhong, Hongyi Wang, Yu Jian Wu, Asaf Cidon, Ryan Stutsman, Amy Tai, and Junfeng Yang.
+    [BPF for storage: an exokernel-inspired approach.](https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s07-zhong.pdf)
     Workshop on Hot Topics in Operating Systems HotOS' 21.
  1. Ankit Bhardwaj, Meghana Gupta, and Ryan Stutsman.
     [On the Impact of Isolation Costs on Locality-aware Cloud Scheduling.](https://www.usenix.org/conference/hotcloud20/presentation/bhardwaj)
