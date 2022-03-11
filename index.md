@@ -293,6 +293,7 @@ systems.
     Stephen M. Rumble, Eric Stratmann, and Ryan Stutsman.
     [The Case for RAMClouds: Scalable High-Performance Storage Entirely in DRAM.](http://doi.acm.org/10.1145/1713254.1713276)
     *SIGOPS Operating Systems Review*, 43(4):92-105, December 2009.
+
 <!-- The missing one is the RAMCloud TR. But it is irrelevant given SIGOPS version. -->
 <!--
  1.  Christian Grothoff, Krista Grothoff, Ludmila Alkhutova, Ryan Stutsman, and Mikhail Atallah.
