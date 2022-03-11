@@ -36,40 +36,50 @@ at the [University of Utah](http://www.utah.edu/).
 My interests include Distributed Systems,
 Operating Systems, and Databases.  I'm passionate about designing and building
 systems that allow large-scale applications to access data more intensively
-than has been possible in the past.  My dissertation work,
-[Fast Crash Recovery in RAMCloud](http://www.stanford.edu/~ouster/cgi-bin/papers/ramcloud-recovery.pdf)
-provides durability and availability in a large-scale distributed DRAM-based
-storage system with the same price and energy consumption as today's volatile
-caches.  Overall, it enables the use of DRAM as fault-tolerant large-scale data
-center storage which is 50 to 5,000 times faster than other data center storage
-systems.
-
+than has been possible in the past.
 Formerly, I was a Postdoctoral Researcher in the
 [databases group](http://research.microsoft.com/en-us/groups/db/) at
 [Microsoft Research](http://research.microsoft.com/).
 Before that, I earned my Ph.D. at Stanford University working as a part of the
 [RAMCloud](http://ramcloud.stanford.edu/) and the
 [Secure Computer Systems](http://www.scs.stanford.edu/) labs.
+<!--
+My dissertation work,
+[Fast Crash Recovery in RAMCloud](http://www.stanford.edu/~ouster/cgi-bin/papers/ramcloud-recovery.pdf)
+provides durability and availability in a large-scale distributed DRAM-based
+storage system with the same price and energy consumption as today's volatile
+caches.  Overall, it enables the use of DRAM as fault-tolerant large-scale data
+center storage which is 50 to 5,000 times faster than other data center storage
+systems.
+-->
+
 
 # <a name="students"></a> Students
 
  - Current
-   - Mohammed Al-Mahfoudh, PhD 2019 expected (Co-advised with Ganesh Gopalakrishnan)
-   - Ankit Bhardwaj, PhD 2023 expected
-   - Meghana Gupta, MS 2021 expected
-   - Chinmay Kulkarni, PhD 2021 expected
    - Amit Samanta, PhD 2024 expected
-   - Tian Zhang, PhD 2021 expected
+   - Ankit Bhardwaj, PhD 2023 expected
+   - Vinita Pawar, MS 2022 expected
+   - Todd Thornley, MS 2022 expected
  - Alumni
+   - Tian Zhang, PhD 2021, now at Google
+   - Chinmay Kulkarni, PhD 2021, now at Lightstep
+   - Mohammed Al-Mahfoudh, PhD 2021
+   - Meghana Gupta, MS 2021
+   - Emerson Ford, BS 2021, now at Meta
+   - Akshay Singh, MS 2020
    - Mazhar Naqvi, MS 2019, now at Microsoft
    - Paridhi Baheti, MS 2019, now at Microsoft
    - Aaron Langford, BS 2018, now at Instructure
    - Sara Moore (Adamson), BS 2018, now at InsideSales
+   - Daniel Rushton, BS 2018, now at Nvidia
    - Aniraj Kesavan, MS 2017, now at LinkedIn
  
 # <a name="teaching"></a> Teaching
 
-- CS6450 Fall 2020 - Distributed Systems
+- [CS5460/6460 Spring 2022 - Operating Systems](https://utah.instructure.com/courses/756700)
+- [CS5460/6460 Spring 2021 - Operating Systems](https://utah.instructure.com/courses/663531)
+- [CS6450 Fall 2020 - Distributed Systems](https://utah.instructure.com/courses/635986)
 - [CS5460/6460 Spring 2020 - Operating Systems](https://utah.instructure.com/courses/601363)
 - [CS6465 Fall 2019 - Advanced Operating Systems](https://utah.instructure.com/courses/573975)
 - [CS5460/6460 Spring 2019 - Operating Systems](https://utah.instructure.com/courses/539884)
@@ -83,15 +93,10 @@ Before that, I earned my Ph.D. at Stanford University working as a part of the
 
 # <a name="projects"></a> Projects
 
-## Current
-
  - [Splinter](http://utah.systems/projects/splinter/) - A multi-tenant
    in-memory key-value store that operates on microsecond time scales with
    millions of operation per second while letting mutually distrusting tenants
    push extensions to it at runtime to customize its operations and data model.
-
-## Past
-
  - [LSM-SIM](https://github.com/utah-scs/lsm-sim/) - A trace-driven web cache
    simulator designed to simulate common and advanced eviction and memory
    management policies for large-scale in-memory caches, like memcached.
@@ -289,8 +294,8 @@ Before that, I earned my Ph.D. at Stanford University working as a part of the
     Stephen M. Rumble, Eric Stratmann, and Ryan Stutsman.
     [The Case for RAMClouds: Scalable High-Performance Storage Entirely in DRAM.](http://doi.acm.org/10.1145/1713254.1713276)
     *SIGOPS Operating Systems Review*, 43(4):92-105, December 2009.
-{% comment %}
-Note to self: The missing one is the RAMCloud TR. But it is irrelevant given SIGOPS version.
+<!-- The missing one is the RAMCloud TR. But it is irrelevant given SIGOPS version. -->
+<!--
  1.  Christian Grothoff, Krista Grothoff, Ludmila Alkhutova, Ryan Stutsman, and Mikhail Atallah.
      [Translation-Based Steganography.](https://www.cerias.purdue.edu/assets/pdf/bibtex_archive/2005-39.pdf)
       Technical Report CSD TR 05-009, Purdue University, 2005.
@@ -298,13 +303,15 @@ Note to self: The missing one is the RAMCloud TR. But it is irrelevant given SIG
      and Nickolai Zeldovich.
      [Energy Management in Mobile Devices with the Cinder Operating System.](http://hci.stanford.edu/cstr/reports/2010-02.pdf)
      Technical Report CSTR-2010-02, Stanford University, June 2010.
-{% endcomment %}
+-->
 
 ## Dissertation
 
 [Durability and Crash Recovery in Distributed In-Memory Storage Systems.](./papers/thesis.pdf)
 PhD thesis, Stanford University, Stanford, CA, USA, December 2013.
 
+
+<!--
 # <a name="talks"></a> Talks
 
  1. Bare-Metal Extensions for Multi-Tenant Low-Latency Storage.
@@ -325,9 +332,11 @@ PhD thesis, Stanford University, Stanford, CA, USA, December 2013.
     EuroSys '11.
  1. [Lost in Just the Translation.](papers/lijtt.pdf)
     ACM SAC '06.
+-->
 
 # <a name="activities"></a> Activities
 
+<!--
 - Outreach
   - FIRST Lego League Junior, Assistant Team Coach 2018-present.
   - Oregon-Davis Junior/Senior High School; Invited STEM Career Speaker;
@@ -350,22 +359,26 @@ AY ’17-’18;
   - College of Engineering Orientation Panel, 2019 (3×), 2020.
 - University Service
   - Office of Undergraduate Research Undergraduate Research Symposium Poster Judge, 2019 (2×).
-
-- NSF Panelist 2017, 2018, 2019x2
+-->
 
 - Conference Organization
-  -  HotCloud ’20 Program Co-chair, 22 paper program selected from 95 submissions;
-  -  OSDI’20 Artifact Evaluation Committee Co-chair, 53 artifact submissions;
-  -  NSDI ’19 Poster Co-chair, 48 posters;
-  -  NSDI ’19 Session Chair;
-  -  HotCloud ’17 Session Chair;
+  - ACM SoCC '21 Publications Chair
+  <!-- - SOSP '21 Session Chair; -->
+  - HotCloud ’20 Program Co-chair, 22 paper program selected from 95 submissions;
+  - OSDI’20 Artifact Evaluation Committee Co-chair, 53 artifact submissions;
+  - NSDI ’19 Poster Co-chair, 48 posters;
+  <!--
+  - NSDI ’19 Session Chair;
+  - HotCloud ’17 Session Chair;
   - VLDB ’16 Session Chair.
-
-- Conference Reviewing
+  -->
+- Program Committees 
+  - VLDB '22;
+  - ACM SYSTOR '21 (Distinguished Reviewer);
+  - USENIX ATC ’19, '21;
   - SOSP ’19, ’21;
   - OSDI ’18, ’20 (Heavy Member);
   - NSDI’19, ’21;
-  - USENIX ATC ’19;
   - HotCloud ’19 (Workshop);
   - ICDCS ’18;
   - EDBT ’18;
@@ -376,12 +389,15 @@ AY ’17-’18;
   - ICDE ’16;
   - IMDM ’14, ’15, ’16 (Workshop);
   - SIGMETRICS ’15.
+- NSF Panelist 2017, 2018, 2019x2
 
+<!--
 - Journal Reviewing
   - ACM Transactions on Storage (TOS);
   - IEEE Transactions on Cloud Computing (TOCC);
   - ACM SIGMOD Transactions on Database Systems (TODS);
   - IEEE Transactions on Knowledge and Data Engineering (TKDE);
   - ACM SIGOPS Transactions on Computer Systems (TOCS).
+-->
 
 
