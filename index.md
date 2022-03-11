@@ -19,7 +19,6 @@ University of Utah<br>
 [Teaching](#teaching) -
 [Projects](#projects) -
 [Publications](#publications) -
-[Talks](#talks) -
 [Activities](#activities)
 <!--[Blog](./blog/)-->
 
