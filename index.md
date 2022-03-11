@@ -363,15 +363,9 @@ AY ’17-’18;
 
 - Conference Organization
   - ACM SoCC '21 Publications Chair
-  <!-- - SOSP '21 Session Chair; -->
   - HotCloud ’20 Program Co-chair, 22 paper program selected from 95 submissions;
   - OSDI’20 Artifact Evaluation Committee Co-chair, 53 artifact submissions;
   - NSDI ’19 Poster Co-chair, 48 posters;
-  <!--
-  - NSDI ’19 Session Chair;
-  - HotCloud ’17 Session Chair;
-  - VLDB ’16 Session Chair.
-  -->
 - Program Committees 
   - VLDB '22;
   - ACM SYSTOR '21 (Distinguished Reviewer);
