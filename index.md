@@ -73,7 +73,7 @@ systems.
    - Sara Moore (Adamson), BS 2018, now at InsideSales
    - Daniel Rushton, BS 2018, now at Nvidia
    - Aniraj Kesavan, MS 2017, now at LinkedIn
- 
+
 # <a name="teaching"></a> Teaching
 
 - [CS5460/6460 Spring 2022 - Operating Systems](https://utah.instructure.com/courses/756700)
@@ -105,7 +105,7 @@ systems.
  - [Deuteronomy](http://research.microsoft.com/en-us/groups/db/) - A fully lock-free
    transactional database engine that is performance competitive with modern
    in-memory databases. Deuteronomy maintains clean architectural separation of
-   storage, indexing, and transaction components for flexible 
+   storage, indexing, and transaction components for flexible
    deployment in embedded, cloud, or data center systems.
  - [Cinder](http://www.scs.stanford.edu/cinder) - An operating system designed
    for cellular phones and mobile devices with fine-grained energy accounting,
@@ -123,29 +123,32 @@ systems.
 # <a name="publications"></a> Publications
 
 ## Refereed conference and journal publications
-
+ 1. Yuhong Zhong, Haoyu Li, Yu Jian Wu, Ioannis Zarkadas, Jeffrey Tao, Evan Mesterhazy, Michael Makris, Junfeng Yang, Amy Tai, Ryan Stutsman, and Asaf Cidon.
+    [XRP: In-Kernel Storage Functions with eBPF.](https://www.usenix.org/conference/osdi22/presentation/zhong)
+    In *16th USENIX Symposium on Operating Systems Design and Implementation*, OSDI 2022.
+    **To appear**.
  1. Chinmay Kulkarni, Badrish Chandramouli, and Ryan Stutsman.
     [Achieving High Throughput and Elasticity in a Larger-than-Memory Store.](https://www.microsoft.com/en-us/research/publication/achieving-high-throughput-and-elasticity-in-a-larger-than-memory-store/)
     In *Proceedings of the VLDB Endowment*, VLDB 2021.
  1. Ankit Bhardwaj, Chinmay Kulkarni, Reto Achermann, Irina Calciu, Sanidhya Kashyap, Ryan Stutsman, Amy Tai and Gerd Zellweger.
     [NrOS: Effective Replication and Sharing in an Operating System.](https://www.usenix.org/conference/osdi21/presentation/bhardwaj)
     In *Proceedings of the 15th USENIX Symposium on Operating Systems Design and Implementation*, OSDI '21.
- 1. Joe Novak,  Ryan Stutsman, and Sneha Kumar Kasera.  
+ 1. Joe Novak,  Ryan Stutsman, and Sneha Kumar Kasera.
     Auto-Scaling Cloud-Based Memory-Intensive  Applications.
-    In 12th IEEE International Conference on Cloud Computing, IEEE CLOUD 2020.  
+    In 12th IEEE International Conference on Cloud Computing, IEEE CLOUD 2020.
  1. Ankit Bhardwaj, Chinmay Kulkarni, and Ryan Stutsman.
     [Adaptive Placement for In-memory Storage Functions.](https://www.usenix.org/conference/atc20/presentation/bhardwaj)
-    In *Proceedings of the 2020 USENIX Annual Technical Conference*, USENIX ATC '20.  
- 1. Meysam Taassori, Rajeev Balasubramonian, Siddhartha Chhabra, Alaa Alameldeen, Manjula Peddireddy, Rajat Agarwal, and Ryan Stutsman. 
+    In *Proceedings of the 2020 USENIX Annual Technical Conference*, USENIX ATC '20.
+ 1. Meysam Taassori, Rajeev Balasubramonian, Siddhartha Chhabra, Alaa Alameldeen, Manjula Peddireddy, Rajat Agarwal, and Ryan Stutsman.
     [Compact Leakage-Free Support for Integrity and Reliability.](http://www.cs.utah.edu/~rajeev/pubs/isca20m.pdf)
     In *Proceedings of the 47th International Symposium onComputer Architecture*, ISCA '20.
  1. Tian Zhang, Dong Xie, Feifei Li, and Ryan Stutsman.
     [Narrowing the Gap Between Serverless and its State with Storage Functions.](http://utah.systems/projects/zhang_shredder)
-    In *Proceedings of the ACM Symposium on Cloud Computing*, SoCC'19.  
+    In *Proceedings of the ACM Symposium on Cloud Computing*, SoCC'19.
     **Best Paper Runner Up**.
  1. Anirban Nag, C.N. Ramachandra, Rajeev Balasubramonian, Ryan Stutsman, Edouard Giacomin, Hari Kambalasubramanyam, and Pierre-Emmanuel Gaillardon.
     [GenCache: Leveraging In-Cache Operators for Efficient Sequence Alignment.](https://dl.acm.org/doi/10.1145/3352460.3358308)
-    In *Proceedings of the 52nd IEEE/ACM International Symposium on Microarchitecture*, MICRO'19.  
+    In *Proceedings of the 52nd IEEE/ACM International Symposium on Microarchitecture*, MICRO'19.
  1. Tao Zhu, Zhuoyue Zhao, Feifei Li, Weining Qian, Aoying Zhou, Dong Xie, Ryan Stutsman, Haining Li, and Huiqi Hu.
     [SolarDB: Toward a Shared-Everything Database on Distributed Log-Structured Storage.](https://dl.acm.org/citation.cfm?id=3318158)
     In *ACM Transactions on Storage (TOS)*, June 2019.
@@ -232,6 +235,10 @@ systems.
     pages 338-345. ACM, April 2006.
 
 ## Refereed workshop publications
+ 1.  Ankit Bhardwaj, Todd Thornley, Vinita Pawar, Reto Achermann, Gerd Zellweger, and Ryan Stutsman.
+     Cache-coherent Accelerators for Persistent Memory Crash-consistency.
+     In *Proceedings of the 14th ACM Workshop on Hot Topics in Storage and File Systems*, HotStorage '22.
+     **To appear.**
  1. Yuhong Zhong, Hongyi Wang, Yu Jian Wu, Asaf Cidon, Ryan Stutsman, Amy Tai, and Junfeng Yang.
     [BPF for storage: an exokernel-inspired approach.](https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s07-zhong.pdf)
     Workshop on Hot Topics in Operating Systems HotOS' 21.
@@ -342,7 +349,7 @@ PhD thesis, Stanford University, Stanford, CA, USA, December 2013.
   - Oregon-Davis Junior/Senior High School; Invited STEM Career Speaker;
        Hamlet, Indiana; 2015.
   - University of Utah IT Professionals Meeting Invited Talk, "An Overview of
-   Recent Speculative Execution Vulnerabilities", June 2019. 
+   Recent Speculative Execution Vulnerabilities", June 2019.
 
 - Department Service
   - School of Computing Database Faculty Search Committee, 2017;
@@ -366,12 +373,12 @@ AY ’17-’18;
   - HotCloud ’20 Program Co-chair, 22 paper program selected from 95 submissions;
   - OSDI’20 Artifact Evaluation Committee Co-chair, 53 artifact submissions;
   - NSDI ’19 Poster Co-chair, 48 posters;
-- Program Committees 
-  - VLDB '22;
+- Program Committees
+  - OSDI ’18, ’20 (Heavy Member), '23;
+  - VLDB '23;
   - ACM SYSTOR '21 (Distinguished Reviewer);
   - USENIX ATC ’19, '21;
   - SOSP ’19, ’21;
-  - OSDI ’18, ’20 (Heavy Member);
   - NSDI’19, ’21;
   - HotCloud ’19 (Workshop);
   - ICDCS ’18;
@@ -383,7 +390,7 @@ AY ’17-’18;
   - ICDE ’16;
   - IMDM ’14, ’15, ’16 (Workshop);
   - SIGMETRICS ’15.
-- NSF Panelist 2017, 2018, 2019x2
+- NSF Panelist 2017, 2018, 2019x2, 2022.
 
 <!--
 - Journal Reviewing
