@@ -56,11 +56,13 @@ systems.
 # <a name="students"></a> Students
 
  - Current
+   - James McMahon, PhD 2027 expected
    - Amit Samanta, PhD 2024 expected
    - Ankit Bhardwaj, PhD 2023 expected
-   - Vinita Pawar, MS 2022 expected
+   - Md Ashfaqur Rahaman, PhD 2026 expected
    - Todd Thornley, MS 2022 expected
  - Alumni
+   - Vinita Pawar, MS 2022 expected
    - Tian Zhang, PhD 2021, now at Google
    - Chinmay Kulkarni, PhD 2021, now at Lightstep
    - Mohammed Al-Mahfoudh, PhD 2021
@@ -76,6 +78,7 @@ systems.
 
 # <a name="teaching"></a> Teaching
 
+- [CS6450 Fall 2022 - Distributed Systems](https://utah.instructure.com/courses/794856)
 - [CS5460/6460 Spring 2022 - Operating Systems](https://utah.instructure.com/courses/756700)
 - [CS5460/6460 Spring 2021 - Operating Systems](https://utah.instructure.com/courses/663531)
 - [CS6450 Fall 2020 - Distributed Systems](https://utah.instructure.com/courses/635986)
@@ -92,13 +95,18 @@ systems.
 
 # <a name="projects"></a> Projects
 
+ - [NrOS](http://nrkernel.systems/) - NrOS is a new multikernel operating system
+   that uses simple sequential data structures which are scaled in a black-box
+   fashion to support many cores and NUMA sockets using node replication.
  - [Splinter](http://utah.systems/projects/splinter/) - A multi-tenant
    in-memory key-value store that operates on microsecond time scales with
    millions of operation per second while letting mutually distrusting tenants
    push extensions to it at runtime to customize its operations and data model.
+<!--
  - [LSM-SIM](https://github.com/utah-scs/lsm-sim/) - A trace-driven web cache
    simulator designed to simulate common and advanced eviction and memory
    management policies for large-scale in-memory caches, like memcached.
+-->
  - [RAMCloud](http://ramcloud.stanford.edu/) - A high-performance distributed
    key-value storage system designed with latency goals to enable the next
    generation of data center applications.
@@ -112,11 +120,13 @@ systems.
     allocation, subdivision, and delegation.
  - [HiStar](http://www.scs.stanford.edu/histar) - An operating system designed
    around decentralized information flow control.
+<!--
  - [ROSE](http://www.rosecompiler.org/) - A source-to-source compiler
    infrastructure for transformation and analysis tools for large-scale
    applications.
  - [AutoTest](http://autotest.github.com/) - A release-driven Linux kernel
    regression testing framework.
+-->
  - [Lost in Translation](./stego/) - A steganographic system that hides information in
    natural language translations.
 
@@ -126,7 +136,7 @@ systems.
  1. Yuhong Zhong, Haoyu Li, Yu Jian Wu, Ioannis Zarkadas, Jeffrey Tao, Evan Mesterhazy, Michael Makris, Junfeng Yang, Amy Tai, Ryan Stutsman, and Asaf Cidon.
     [XRP: In-Kernel Storage Functions with eBPF.](https://www.usenix.org/conference/osdi22/presentation/zhong)
     In *16th USENIX Symposium on Operating Systems Design and Implementation*, OSDI 2022.
-    **To appear**.
+    **Jay Lepreau Best Paper Award**.
  1. Chinmay Kulkarni, Badrish Chandramouli, and Ryan Stutsman.
     [Achieving High Throughput and Elasticity in a Larger-than-Memory Store.](https://www.microsoft.com/en-us/research/publication/achieving-high-throughput-and-elasticity-in-a-larger-than-memory-store/)
     In *Proceedings of the VLDB Endowment*, VLDB 2021.
@@ -183,7 +193,7 @@ systems.
     In *Proceedings of the 2018 USENIX Annual Technical Conference*, USENIX ATC '18.
  1. Chinmay Kulkarni, Aniraj Kesavan, Tian Zhang, Robert Ricci, and Ryan Stutsman.
     [Rocksteady: Fast Migration for Low-latency In-memory Storage.](https://dl.acm.org/authorize?N47268)
-    To appear in *Proceedings of the Twenty-Sixth ACM Symposium on Operating Systems Principles*, SOSP'17.
+    In *Proceedings of the Twenty-Sixth ACM Symposium on Operating Systems Principles*, SOSP'17.
  1. Asaf Cidon, Daniel Rushton, Stephen M. Rumble, and Ryan Stutsman.
     [Memshare: Memory Resource Sharing in Multi-tenant Web Caches.](http://www.usenix.org/conference/atc17/program/presentation/cidon)
     In *Proceedings of the 2017 USENIX Conference on Annual Technical Conference*, USENIX ATC'17.
@@ -238,7 +248,7 @@ systems.
  1.  Ankit Bhardwaj, Todd Thornley, Vinita Pawar, Reto Achermann, Gerd Zellweger, and Ryan Stutsman.
      Cache-coherent Accelerators for Persistent Memory Crash-consistency.
      In *Proceedings of the 14th ACM Workshop on Hot Topics in Storage and File Systems*, HotStorage '22.
-     **To appear.**
+     **Intel Best Paper Award**
  1. Yuhong Zhong, Hongyi Wang, Yu Jian Wu, Asaf Cidon, Ryan Stutsman, Amy Tai, and Junfeng Yang.
     [BPF for storage: an exokernel-inspired approach.](https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s07-zhong.pdf)
     Workshop on Hot Topics in Operating Systems HotOS' 21.
@@ -374,19 +384,18 @@ AY ’17-’18;
   - OSDI’20 Artifact Evaluation Committee Co-chair, 53 artifact submissions;
   - NSDI ’19 Poster Co-chair, 48 posters;
 - Program Committees
-  - OSDI ’18, ’20 (Heavy Member), '23;
-  - VLDB '23;
+  - SOSP '19, '21, '23;
+  - OSDI '18, '20 (Heavy Member), '23;
+  - VLDB '17 (Industrial Track), '23;
   - ACM SYSTOR '21 (Distinguished Reviewer);
-  - USENIX ATC ’19, '21;
-  - SOSP ’19, ’21;
-  - NSDI’19, ’21;
-  - HotCloud ’19 (Workshop);
-  - ICDCS ’18;
-  - EDBT ’18;
-  - ICDE ’18;
-  - SIGMOD ’17, ’18, (Awarded Distinguished Program Committee Member both times);
-  - VLDB ’17 Industrial Track;
-  - SIGMOD ’16 Demo Committee;
+  - USENIX ATC '19, '21;
+  - NSDI '19, '21;
+  - HotCloud '19 (Workshop);
+  - ICDCS '18;
+  - EDBT '18;
+  - ICDE '18;
+  - SIGMOD '17, '18, (Distinguished Program Committee Member both times);
+  - SIGMOD '16 Demo Committee;
   - ICDE ’16;
   - IMDM ’14, ’15, ’16 (Workshop);
   - SIGMETRICS ’15.
