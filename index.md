@@ -102,11 +102,6 @@ systems.
    in-memory key-value store that operates on microsecond time scales with
    millions of operation per second while letting mutually distrusting tenants
    push extensions to it at runtime to customize its operations and data model.
-<!--
- - [LSM-SIM](https://github.com/utah-scs/lsm-sim/) - A trace-driven web cache
-   simulator designed to simulate common and advanced eviction and memory
-   management policies for large-scale in-memory caches, like memcached.
--->
  - [RAMCloud](http://ramcloud.stanford.edu/) - A high-performance distributed
    key-value storage system designed with latency goals to enable the next
    generation of data center applications.
@@ -120,13 +115,6 @@ systems.
     allocation, subdivision, and delegation.
  - [HiStar](http://www.scs.stanford.edu/histar) - An operating system designed
    around decentralized information flow control.
-<!--
- - [ROSE](http://www.rosecompiler.org/) - A source-to-source compiler
-   infrastructure for transformation and analysis tools for large-scale
-   applications.
- - [AutoTest](http://autotest.github.com/) - A release-driven Linux kernel
-   regression testing framework.
--->
  - [Lost in Translation](./stego/) - A steganographic system that hides information in
    natural language translations.
 
