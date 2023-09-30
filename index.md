@@ -98,7 +98,7 @@ systems.
  - [NrOS](http://nrkernel.systems/) - NrOS is a new multikernel operating system
    that uses simple sequential data structures which are scaled in a black-box
    fashion to support many cores and NUMA sockets using node replication.
- - [Splinter](http://utah.systems/projects/splinter/) - A multi-tenant
+ - [Splinter](http://utah.systems/splinter) - A multi-tenant
    in-memory key-value store that operates on microsecond time scales with
    millions of operation per second while letting mutually distrusting tenants
    push extensions to it at runtime to customize its operations and data model.
