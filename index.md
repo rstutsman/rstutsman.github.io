@@ -61,8 +61,9 @@ systems.
    - Ankit Bhardwaj, PhD 2023 expected
    - Md Ashfaqur Rahaman, PhD 2026 expected
    - Todd Thornley, MS 2022 expected
+   - Vinita Pawar, PhD 2029 expected
  - Alumni
-   - Vinita Pawar, MS 2022 expected
+   - Vinita Pawar, MS 2022
    - Tian Zhang, PhD 2021, now at Google
    - Chinmay Kulkarni, PhD 2021, now at Lightstep
    - Mohammed Al-Mahfoudh, PhD 2021
