@@ -129,11 +129,11 @@ systems.
 # <a name="publications"></a> Publications
 
 ## Refereed conference and journal publications
- 1. Amit Samanta, Ryan Stutsman.  
-    [Fair, Efficient Multi-Resource Scheduling for Stateless Serverless Functions with Anubis.](https://ieeexplore.ieee.org/abstract/document/10701320)  
+ 1. Amit Samanta, Ryan Stutsman.
+    [Fair, Efficient Multi-Resource Scheduling for Stateless Serverless Functions with Anubis.](https://ieeexplore.ieee.org/abstract/document/10701320)
     In *IEEE 24th International Symposium on Cluster, Cloud and Internet Computing*, CCGrid '24.
- 1. Travis Hance, Yi Zhou, Andrea Lattuada, Reto Achermann, Alex Conway, Ryan Stutsman, Gerd Zellweger, Chris Hawblitzel, Jon Howell, Bryan Parno.  
-    [Sharding the state machine: Automated modular reasoning for complex concurrent systems.](https://www.usenix.org/conference/osdi23/presentation/hance)  
+ 1. Travis Hance, Yi Zhou, Andrea Lattuada, Reto Achermann, Alex Conway, Ryan Stutsman, Gerd Zellweger, Chris Hawblitzel, Jon Howell, Bryan Parno.
+    [Sharding the state machine: Automated modular reasoning for complex concurrent systems.](https://www.usenix.org/conference/osdi23/presentation/hance)
     In *17th USENIX Symposium on Operating Systems Design and Implementation*, OSDI '23.
  1. Mohammed S Al‐Mahfoudh, Ryan Stutsman, Ganesh Gopalakrishnan.  
     [Efficient Linearizability Checking for Actor‐Based Systems.](https://onlinelibrary.wiley.com/doi/abs/10.1002/spe.3251)  
@@ -250,11 +250,11 @@ systems.
     pages 338-345. ACM, April 2006.
 
 ## Refereed workshop publications
- 1. Amit Samanta, Ryan Stutsman.  
-    [A Case of Multi-Resource Fairness for Serverless Workflows](https://dl.acm.org/doi/abs/10.1145/3578245.3585033)  
+ 1. Amit Samanta, Ryan Stutsman.
+    [A Case of Multi-Resource Fairness for Serverless Workflows](https://dl.acm.org/doi/abs/10.1145/3578245.3585033)
     In *Companion of the 2023 ACM/SPEC International Conference on Performance Engineering*, ICPE '23 Companion.
- 1. Ankit Bhardwaj, Todd Thornley, Vinita Pawar, Reto Achermann, Gerd Zellweger, and Ryan Stutsman.  
-    [Cache-coherent Accelerators for Persistent Memory Crash-consistency.](https://dl.acm.org/doi/10.1145/3538643.3539752)  
+ 1. Ankit Bhardwaj, Todd Thornley, Vinita Pawar, Reto Achermann, Gerd Zellweger, and Ryan Stutsman.
+    [Cache-coherent Accelerators for Persistent Memory Crash-consistency.](https://dl.acm.org/doi/10.1145/3538643.3539752)
     In *Proceedings of the 14th ACM Workshop on Hot Topics in Storage and File Systems*, HotStorage '22.  
     **Intel Best Paper Award**
  1. Yuhong Zhong, Hongyi Wang, Yu Jian Wu, Asaf Cidon, Ryan Stutsman, Amy Tai, and Junfeng Yang.
