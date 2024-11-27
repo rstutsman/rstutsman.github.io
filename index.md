@@ -79,20 +79,27 @@ systems.
 
 # <a name="teaching"></a> Teaching
 
-- [CS6450 Fall 2022 - Distributed Systems](https://utah.instructure.com/courses/794856)
-- [CS5460/6460 Spring 2022 - Operating Systems](https://utah.instructure.com/courses/756700)
-- [CS5460/6460 Spring 2021 - Operating Systems](https://utah.instructure.com/courses/663531)
-- [CS6450 Fall 2020 - Distributed Systems](https://utah.instructure.com/courses/635986)
-- [CS5460/6460 Spring 2020 - Operating Systems](https://utah.instructure.com/courses/601363)
-- [CS6465 Fall 2019 - Advanced Operating Systems](https://utah.instructure.com/courses/573975)
-- [CS5460/6460 Spring 2019 - Operating Systems](https://utah.instructure.com/courses/539884)
-- [CS6450 Fall 2018 - Distributed Systems](http://www.cs.utah.edu/~stutsman/cs6450/)
-- [CS5460/6460 Spring 2018 - Operating Systems](https://utah.instructure.com/courses/475520)
-- [CS6450 Fall 2017 - Distributed Systems](http://www.cs.utah.edu/~stutsman/cs6450/)
-- [CS6963 Fall 2016 - Distributed Systems](http://www.cs.utah.edu/~stutsman/cs6963/)
-- [CS5460/6460 Spring 2016 - Operating Systems](http://utah.instructure.com/courses/364658)
-  - 2016-2017 University of Utah School of Computing Outstanding Teaching Award.
-- [CS6963 Fall 2015 - Distributed Systems](http://www.cs.utah.edu/~stutsman/cs6963/)
+- 2022-2023 University of Utah Price College of Engineering Outstanding Teaching Award.
+- 2022-2023 University of Utah Kahlert School of Computing Outstanding Teaching Award.
+- 2016-2017 University of Utah School of Computing Outstanding Teaching Award.
+
+- CS6450 Fall 2024 - Distributed Systems
+- CS4480 Spring 2024 - Computer Networks
+- CS6465 Fall 2023 - Advanced Operating Systems
+- CS4480 Spring 2023 - Computer Networks
+- CS6450 Fall 2022 - Distributed Systems
+- CS5460/6460 Spring 2022 - Operating Systems
+- CS5460/6460 Spring 2021 - Operating Systems
+- CS6450 Fall 2020 - Distributed Systems
+- CS5460/6460 Spring 2020 - Operating Systems
+- CS6465 Fall 2019 - Advanced Operating Systems
+- CS5460/6460 Spring 2019 - Operating Systems
+- CS6450 Fall 2018 - Distributed Systems
+- CS5460/6460 Spring 2018 - Operating Systems
+- CS6450 Fall 2017 - Distributed Systems
+- CS6963 Fall 2016 - Distributed Systems
+- CS5460/6460 Spring 2016 - Operating Systems
+- CS6963 Fall 2015 - Distributed Systems
 
 # <a name="projects"></a> Projects
 
@@ -122,6 +129,15 @@ systems.
 # <a name="publications"></a> Publications
 
 ## Refereed conference and journal publications
+ 1. Amit Samanta, Ryan Stutsman.  
+    [Fair, Efficient Multi-Resource Scheduling for Stateless Serverless Functions with Anubis.](https://ieeexplore.ieee.org/abstract/document/10701320)  
+    In *IEEE 24th International Symposium on Cluster, Cloud and Internet Computing*, CCGrid '24.
+ 1. Travis Hance, Yi Zhou, Andrea Lattuada, Reto Achermann, Alex Conway, Ryan Stutsman, Gerd Zellweger, Chris Hawblitzel, Jon Howell, Bryan Parno.  
+    [Sharding the state machine: Automated modular reasoning for complex concurrent systems.](https://www.usenix.org/conference/osdi23/presentation/hance)  
+    In *17th USENIX Symposium on Operating Systems Design and Implementation*, OSDI '23.
+ 1. Mohammed S Al‐Mahfoudh, Ryan Stutsman, Ganesh Gopalakrishnan.  
+    [Efficient Linearizability Checking for Actor‐Based Systems.](https://onlinelibrary.wiley.com/doi/abs/10.1002/spe.3251)  
+    In *Software: Practice and Experience*, 2023.
  1. Yuhong Zhong, Haoyu Li, Yu Jian Wu, Ioannis Zarkadas, Jeffrey Tao, Evan Mesterhazy, Michael Makris, Junfeng Yang, Amy Tai, Ryan Stutsman, and Asaf Cidon.
     [XRP: In-Kernel Storage Functions with eBPF.](https://www.usenix.org/conference/osdi22/presentation/zhong)
     In *16th USENIX Symposium on Operating Systems Design and Implementation*, OSDI 2022.
@@ -234,10 +250,13 @@ systems.
     pages 338-345. ACM, April 2006.
 
 ## Refereed workshop publications
- 1.  Ankit Bhardwaj, Todd Thornley, Vinita Pawar, Reto Achermann, Gerd Zellweger, and Ryan Stutsman.
-     Cache-coherent Accelerators for Persistent Memory Crash-consistency.
-     In *Proceedings of the 14th ACM Workshop on Hot Topics in Storage and File Systems*, HotStorage '22.
-     **Intel Best Paper Award**
+ 1. Amit Samanta, Ryan Stutsman.  
+    [A Case of Multi-Resource Fairness for Serverless Workflows](https://dl.acm.org/doi/abs/10.1145/3578245.3585033)  
+    In *Companion of the 2023 ACM/SPEC International Conference on Performance Engineering*, ICPE '23 Companion.
+ 1. Ankit Bhardwaj, Todd Thornley, Vinita Pawar, Reto Achermann, Gerd Zellweger, and Ryan Stutsman.  
+    [Cache-coherent Accelerators for Persistent Memory Crash-consistency.](https://dl.acm.org/doi/10.1145/3538643.3539752)  
+    In *Proceedings of the 14th ACM Workshop on Hot Topics in Storage and File Systems*, HotStorage '22.  
+    **Intel Best Paper Award**
  1. Yuhong Zhong, Hongyi Wang, Yu Jian Wu, Asaf Cidon, Ryan Stutsman, Amy Tai, and Junfeng Yang.
     [BPF for storage: an exokernel-inspired approach.](https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s07-zhong.pdf)
     Workshop on Hot Topics in Operating Systems HotOS' 21.
