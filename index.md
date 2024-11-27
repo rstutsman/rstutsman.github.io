@@ -56,14 +56,14 @@ systems.
 # <a name="students"></a> Students
 
  - Current
-   - James McMahon, PhD 2027 expected
-   - Amit Samanta, PhD 2024 expected
-   - Ankit Bhardwaj, PhD 2023 expected
-   - Md Ashfaqur Rahaman, PhD 2026 expected
-   - Todd Thornley, MS 2022 expected
    - Vinita Pawar, PhD 2029 expected
+   - James McMahon, PhD 2027 expected
+   - Md Ashfaqur Rahaman, PhD 2026 expected
+   - Amit Samanta, PhD 2024 expected
  - Alumni
+   - Ankit Bhardwaj, PhD 2023, now at MIT
    - Vinita Pawar, MS 2022
+   - Todd Thornley, MS 2022
    - Tian Zhang, PhD 2021, now at Google
    - Chinmay Kulkarni, PhD 2021, now at Lightstep
    - Mohammed Al-Mahfoudh, PhD 2021
