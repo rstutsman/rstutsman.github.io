@@ -42,6 +42,7 @@ Formerly, I was a Postdoctoral Researcher in the
 Before that, I earned my Ph.D. at Stanford University working as a part of the
 [RAMCloud](http://ramcloud.stanford.edu/) and the
 [Secure Computer Systems](http://www.scs.stanford.edu/) labs.
+I'm also the winner of an NSF CAREER Award (2018) and the PECASE Award (2025), and the OSDI '22  Jay Lepreau Best Paper Award.
 <!--
 My dissertation work,
 [Fast Crash Recovery in RAMCloud](http://www.stanford.edu/~ouster/cgi-bin/papers/ramcloud-recovery.pdf)
@@ -387,16 +388,18 @@ AY ’17-’18;
 -->
 
 - Conference Organization
-  - ACM SoCC '21 Publications Chair
+  - USENIX ATC '25 Co-chair;
+  - ACM SoCC '21 Publications Chair;
   - HotCloud ’20 Program Co-chair, 22 paper program selected from 95 submissions;
   - OSDI’20 Artifact Evaluation Committee Co-chair, 53 artifact submissions;
-  - NSDI ’19 Poster Co-chair, 48 posters;
+  - NSDI ’19 Poster Co-chair, 48 posters.
 - Program Committees
+  - ASPLOS '24;
+  - USENIX ATC '19, '21, '24;
   - SOSP '19, '21, '23;
   - OSDI '18, '20 (Heavy Member), '23;
-  - VLDB '17 (Industrial Track), '23;
+  - VLDB '17 (Industrial Track), '23 (Distinguished Reviewer);
   - ACM SYSTOR '21 (Distinguished Reviewer);
-  - USENIX ATC '19, '21;
   - NSDI '19, '21;
   - HotCloud '19 (Workshop);
   - ICDCS '18;
@@ -407,7 +410,7 @@ AY ’17-’18;
   - ICDE ’16;
   - IMDM ’14, ’15, ’16 (Workshop);
   - SIGMETRICS ’15.
-- NSF Panelist 2017, 2018, 2019x2, 2022.
+- NSF Panelist 2017, 2018, 2019x2, 2022, 2023, 2024x2.
 
 <!--
 - Journal Reviewing
