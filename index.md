@@ -168,8 +168,8 @@ systems.
  1. Travis Hance, Yi Zhou, Andrea Lattuada, Reto Achermann, Alex Conway, Ryan Stutsman, Gerd Zellweger, Chris Hawblitzel, Jon Howell, Bryan Parno.
     [Sharding the state machine: Automated modular reasoning for complex concurrent systems.](https://www.usenix.org/conference/osdi23/presentation/hance)
     In *17th USENIX Symposium on Operating Systems Design and Implementation*, OSDI '23.
- 1. Mohammed S Al‐Mahfoudh, Ryan Stutsman, Ganesh Gopalakrishnan.  
-    [Efficient Linearizability Checking for Actor‐Based Systems.](https://onlinelibrary.wiley.com/doi/abs/10.1002/spe.3251)  
+ 1. Mohammed S Al‐Mahfoudh, Ryan Stutsman, Ganesh Gopalakrishnan.
+    [Efficient Linearizability Checking for Actor‐Based Systems.](https://onlinelibrary.wiley.com/doi/abs/10.1002/spe.3251)
     In *Software: Practice and Experience*, 2023.
  1. Yuhong Zhong, Haoyu Li, Yu Jian Wu, Ioannis Zarkadas, Jeffrey Tao, Evan Mesterhazy, Michael Makris, Junfeng Yang, Amy Tai, Ryan Stutsman, and Asaf Cidon.
     [XRP: In-Kernel Storage Functions with eBPF.](https://www.usenix.org/conference/osdi22/presentation/zhong)
@@ -300,7 +300,7 @@ systems.
     In *Companion of the 2023 ACM/SPEC International Conference on Performance Engineering*, ICPE '23 Companion.
  1. Ankit Bhardwaj, Todd Thornley, Vinita Pawar, Reto Achermann, Gerd Zellweger, and Ryan Stutsman.
     [Cache-coherent Accelerators for Persistent Memory Crash-consistency.](https://dl.acm.org/doi/10.1145/3538643.3539752)
-    In *Proceedings of the 14th ACM Workshop on Hot Topics in Storage and File Systems*, HotStorage '22.  
+    In *Proceedings of the 14th ACM Workshop on Hot Topics in Storage and File Systems*, HotStorage '22.
     **Intel Best Paper Award**
  1. Yuhong Zhong, Hongyi Wang, Yu Jian Wu, Asaf Cidon, Ryan Stutsman, Amy Tai, and Junfeng Yang.
     [BPF for storage: an exokernel-inspired approach.](https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s07-zhong.pdf)
