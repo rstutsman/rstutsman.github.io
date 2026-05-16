@@ -151,7 +151,7 @@ systems.
 
 ## Refereed conference and journal publications
  1. Wei Siew Liew, Md Ashfaqur Rahaman, Adarsh Patil, Ryan Stutsman, and Vijay Nagarajan.
-    [Efficient Remote Memory Ordering for Non-Coherent Interconnects.](https://users.cs.utah.edu/~vijay/papers/asplos26.pdf)
+    [Efficient Remote Memory Ordering for Non-Coherent Systems.](https://doi.org/10.1145/3779212.3790156)
     In *Proceedings of the 31st ACM International Conference on Architectural Support for Programming Languages and Operating Systems*, ASPLOS '26.
  1. Amit Samanta, Yankai Jiang, Ryan Stutsman, and Rohan Basu Roy.
     [Water Footprint of Datacenter Applications: Methodological Implications of Manufacturing, Operational, and Decommissioning Phases.](https://doi.org/10.1145/3772052.3772216)
