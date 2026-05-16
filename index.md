@@ -32,17 +32,21 @@ program](http://www.cs.utah.edu).*
 I am an Associate Professor and head of the [Scalable Software Systems Lab](http://www.utah.systems/)
 in the [School of Computing](http://www.cs.utah.edu/)
 at the [University of Utah](http://www.utah.edu/).
-My interests include Distributed Systems,
-Operating Systems, and Databases.  I'm passionate about designing and building
-systems that allow large-scale applications to access data more intensively
-than has been possible in the past.
+My research is in distributed systems, operating systems, storage,
+cloud/datacenter systems, and hardware-software interfaces. I am interested in
+systems that make fast hardware practically useful: moving computation closer to
+data, reducing software overheads in low-latency systems, and rethinking memory,
+storage, and I/O interfaces for modern datacenters.
 Formerly, I was a Postdoctoral Researcher in the
 [databases group](http://research.microsoft.com/en-us/groups/db/) at
 [Microsoft Research](http://research.microsoft.com/).
 Before that, I earned my Ph.D. at Stanford University working as a part of the
 [RAMCloud](http://ramcloud.stanford.edu/) and the
 [Secure Computer Systems](http://www.scs.stanford.edu/) labs.
-I'm also the winner of an NSF CAREER Award (2018) and the PECASE Award (2025), and the OSDI '22  Jay Lepreau Best Paper Award.
+I received an NSF CAREER Award in 2018 and the NSF Presidential Early Career
+Award for Scientists and Engineers (PECASE) in 2025. My group's work has also
+received the OSDI '22 Jay Lepreau Best Paper Award, the HotStorage '22 Intel
+Best Paper Award, and the SoCC '19 Best Paper Runner-Up Award.
 <!--
 My dissertation work,
 [Fast Crash Recovery in RAMCloud](http://www.stanford.edu/~ouster/cgi-bin/papers/ramcloud-recovery.pdf)
@@ -57,14 +61,16 @@ systems.
 # <a name="students"></a> Students
 
  - Current
-   - Vinita Pawar, PhD 2029 expected
+   - Vinita Pawar, PhD 2028 expected
    - James McMahon, PhD 2027 expected
    - Md Ashfaqur Rahaman, PhD 2026 expected
-   - Amit Samanta, PhD 2024 expected
+   - Amit Samanta, PhD 2025 expected
+   - Yadunandan Ramanna, MS
+   - Anam Iqbal, MS
  - Alumni
-   - Ankit Bhardwaj, PhD 2023, now at MIT
+   - Ankit Bhardwaj, PhD 2023, postdoc at MIT and now Assistant Professor at Tufts University
    - Vinita Pawar, MS 2022
-   - Todd Thornley, MS 2022
+   - Todd Thornley, MS 2023
    - Tian Zhang, PhD 2021, now at Google
    - Chinmay Kulkarni, PhD 2021, now at Lightstep
    - Mohammed Al-Mahfoudh, PhD 2021
@@ -84,6 +90,9 @@ systems.
 - 2022-2023 University of Utah Kahlert School of Computing Outstanding Teaching Award.
 - 2016-2017 University of Utah School of Computing Outstanding Teaching Award.
 
+- CS6450 Fall 2025 - Distributed Systems
+- CS6957 Spring 2025 - Special Topics: Secure Computing Projects
+- CS4500/CS4850 Spring 2025 - Senior Capstone
 - CS6450 Fall 2024 - Distributed Systems
 - CS4480 Spring 2024 - Computer Networks
 - CS6465 Fall 2023 - Advanced Operating Systems
@@ -104,6 +113,17 @@ systems.
 
 # <a name="projects"></a> Projects
 
+ - Memory ordering and fast I/O - Recent work with Vijay Nagarajan's group
+   revisits how CPUs and devices communicate over PCIe and emerging
+   interconnects. Carefully ordered MMIO can be faster than traditional DMA
+   paths, and related techniques enable efficient remote memory ordering for
+   non-coherent interconnects.
+ - Cache-coherent acceleration - Cache-coherent accelerators can make
+   persistent memory programming more efficient by reducing software overheads
+   while preserving familiar memory access semantics.
+ - Storage functions and extensible systems - A line of work from Splinter
+   through adaptive storage function placement and XRP explores how to safely
+   move application-specific computation closer to storage and kernel I/O paths.
  - [NrOS](http://nrkernel.systems/) - NrOS is a new multikernel operating system
    that uses simple sequential data structures which are scaled in a black-box
    fashion to support many cores and NUMA sockets using node replication.
@@ -130,6 +150,18 @@ systems.
 # <a name="publications"></a> Publications
 
 ## Refereed conference and journal publications
+ 1. Wei Siew Liew, Md Ashfaqur Rahaman, Adarsh Patil, Ryan Stutsman, and Vijay Nagarajan.
+    [Efficient Remote Memory Ordering for Non-Coherent Interconnects.](https://users.cs.utah.edu/~vijay/papers/asplos26.pdf)
+    In *Proceedings of the 31st ACM International Conference on Architectural Support for Programming Languages and Operating Systems*, ASPLOS '26.
+ 1. Amit Samanta, Yankai Jiang, Ryan Stutsman, and Rohan Basu Roy.
+    [Water Footprint of Datacenter Applications: Methodological Implications of Manufacturing, Operational, and Decommissioning Phases.](https://doi.org/10.1145/3772052.3772216)
+    In *ACM Symposium on Cloud Computing*, SoCC '25. Short paper.
+ 1. Amit Samanta, Ryan Stutsman, and Rohan Basu Roy.
+    [GridGreen: Integrating Serverless Computing in HPC Systems for Performance and Sustainability.](https://doi.org/10.1145/3772052.3772241)
+    In *ACM Symposium on Cloud Computing*, SoCC '25.
+ 1. Ankit Bhardwaj, Amar Phanishayee, Deepak Narayanan, and Ryan Stutsman.
+    [Auto-reconfiguration for Latency Minimization in CPU-based DNN Serving.](https://proceedings.mlr.press/v267/bhardwaj25a.html)
+    In *Proceedings of the 42nd International Conference on Machine Learning*, ICML '25.
  1. Amit Samanta, Ryan Stutsman.
     [Fair, Efficient Multi-Resource Scheduling for Stateless Serverless Functions with Anubis.](https://ieeexplore.ieee.org/abstract/document/10701320)
     In *IEEE 24th International Symposium on Cluster, Cloud and Internet Computing*, CCGrid '24.
@@ -251,6 +283,18 @@ systems.
     pages 338-345. ACM, April 2006.
 
 ## Refereed workshop publications
+ 1. Amit Samanta, Yankai Jiang, Ryan Stutsman, and Rohan Basu Roy.
+    [Not Just Fast, But Also Sustainable: Rethinking Network Routing.](https://doi.org/10.1145/3774901.3778064)
+    In *Middleware for Autonomous AIoT Systems in the Computing Continuum*, MAIoT '25.
+ 1. Wei Siew Liew, Md Ashfaqur Rahaman, James McMahon, Ryan Stutsman, and Vijay Nagarajan.
+    [Stop Taking the Scenic Route: the Shortest Distance Between the CPU and the NIC is MMIO.](https://doi.org/10.1145/3713082.3730389)
+    In *Workshop on Hot Topics in Operating Systems*, HotOS '25.
+ 1. James McMahon, Vinita Pawar, and Ryan Stutsman.
+    [Remote Memory Prefetching: Is Coarse-grained Fine?](https://doi.org/10.1145/3680256.3721318)
+    In *Companion of the ACM/SPEC International Conference on Performance Engineering*, ICPE '25 Companion.
+ 1. Vinita Pawar, Ankit Bhardwaj, and Ryan Stutsman.
+    [ObjecTier: Non-Invasively Boosting Memory Tiering Performance.](https://doi.org/10.1145/3680256.3721319)
+    In *Companion of the ACM/SPEC International Conference on Performance Engineering*, ICPE '25 Companion.
  1. Amit Samanta, Ryan Stutsman.
     [A Case of Multi-Resource Fairness for Serverless Workflows](https://dl.acm.org/doi/abs/10.1145/3578245.3585033)
     In *Companion of the 2023 ACM/SPEC International Conference on Performance Engineering*, ICPE '23 Companion.
@@ -388,12 +432,16 @@ AY ’17-’18;
 -->
 
 - Conference Organization
-  - USENIX ATC '25 Co-chair;
+  - ACM ATC Steering Committee Member, 2025-present;
+  - USENIX ATC '25 Program Co-chair, 100 paper program selected from 634 submissions;
   - ACM SoCC '21 Publications Chair;
   - HotCloud ’20 Program Co-chair, 22 paper program selected from 95 submissions;
   - OSDI’20 Artifact Evaluation Committee Co-chair, 53 artifact submissions;
   - NSDI ’19 Poster Co-chair, 48 posters.
 - Program Committees
+  - ACM ATC '26;
+  - OSDI '26;
+  - ASPLOS '26;
   - ASPLOS '24;
   - USENIX ATC '19, '21, '24;
   - SOSP '19, '21, '23;
@@ -410,7 +458,7 @@ AY ’17-’18;
   - ICDE ’16;
   - IMDM ’14, ’15, ’16 (Workshop);
   - SIGMETRICS ’15.
-- NSF Panelist 2017, 2018, 2019x2, 2022, 2023, 2024x3.
+- NSF Panelist 2017, 2018, 2019x2, 2022, 2023, 2024x3, 2026.
 
 <!--
 - Journal Reviewing
@@ -420,5 +468,3 @@ AY ’17-’18;
   - IEEE Transactions on Knowledge and Data Engineering (TKDE);
   - ACM SIGOPS Transactions on Computer Systems (TOCS).
 -->
-
-
