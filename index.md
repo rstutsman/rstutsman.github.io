@@ -113,17 +113,19 @@ systems.
 
 # <a name="projects"></a> Projects
 
- - Memory Ordering for Fast I/O - Recent work with Vijay Nagarajan's group
-   revisits how CPUs and devices communicate over PCIe and emerging
-   interconnects. Carefully ordered MMIO can be faster than traditional DMA
-   paths and can obviate the need for cache-coherent I/O interconnects like CXL
-   in some cases.
- - Cache-coherent acceleration - Cache-coherent accelerators can make
-   persistent memory programming more efficient by reducing software overheads
-   while preserving familiar memory access semantics.
- - Storage functions and extensible systems - A line of work from Splinter
-   through adaptive storage function placement and XRP explores how to safely
-   move application-specific computation closer to storage and kernel I/O paths.
+ - [Memory Ordering for Fast I/O](https://utah.systems/projects/liew_pcie-ordering) -
+   Recent work with Vijay Nagarajan's group revisits how CPUs and devices
+   communicate over PCIe and emerging interconnects. Carefully ordered MMIO can
+   be faster than traditional DMA paths and can obviate the need for
+   cache-coherent I/O interconnects like CXL in some cases.
+ - [Cache-coherent acceleration](https://utah.systems/projects/cache-coherent-accelerators) -
+   Cache-coherent accelerators can make persistent memory programming more
+   efficient by reducing software overheads while preserving familiar memory
+   access semantics.
+ - [Storage functions and extensible systems](https://utah.systems/projects/splinter) -
+   A line of work from Splinter through adaptive storage function placement and
+   [XRP](https://utah.systems/projects/zhong_xrp) explores how to safely move
+   application-specific computation closer to storage and kernel I/O paths.
  - [NrOS](http://nrkernel.systems/) - NrOS is a new multikernel operating system
    that uses simple sequential data structures which are scaled in a black-box
    fashion to support many cores and NUMA sockets using node replication.
@@ -150,6 +152,9 @@ systems.
 # <a name="publications"></a> Publications
 
 ## Refereed conference and journal publications
+ 1. Soham Bagchi, Sanya Srivastava, Reese Levine, Tyler Sorensen, Ryan Stutsman, and Vijay Nagarajan.
+    [Consistency and Coherence of the NVIDIA Grace-Hopper Superchip.](https://dl.acm.org/doi/10.1145/3814942.3816134)
+    In *Proceedings of the 2026 ACM SIGPLAN International Symposium on Memory Management*, ISMM '26.
  1. Wei Siew Liew, Md Ashfaqur Rahaman, Adarsh Patil, Ryan Stutsman, and Vijay Nagarajan.
     [Efficient Remote Memory Ordering for Non-Coherent Systems.](https://doi.org/10.1145/3779212.3790156)
     In *Proceedings of the 31st ACM International Conference on Architectural Support for Programming Languages and Operating Systems*, ASPLOS '26.
