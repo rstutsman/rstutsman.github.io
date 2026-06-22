@@ -113,11 +113,11 @@ systems.
 
 # <a name="projects"></a> Projects
 
- - Memory ordering and fast I/O - Recent work with Vijay Nagarajan's group
+ - Memory Ordering for Fast I/O - Recent work with Vijay Nagarajan's group
    revisits how CPUs and devices communicate over PCIe and emerging
    interconnects. Carefully ordered MMIO can be faster than traditional DMA
-   paths, and related techniques enable efficient remote memory ordering for
-   non-coherent interconnects.
+   paths and can obviate the need for cache-coherent I/O interconnects like CXL
+   in some cases.
  - Cache-coherent acceleration - Cache-coherent accelerators can make
    persistent memory programming more efficient by reducing software overheads
    while preserving familiar memory access semantics.
@@ -432,6 +432,7 @@ AY ’17-’18;
 -->
 
 - Conference Organization
+  - ACM SIGCOMM HotNets '26 General Chair
   - ACM ATC Steering Committee Member, 2025-present;
   - USENIX ATC '25 Program Co-chair, 100 paper program selected from 634 submissions;
   - ACM SoCC '21 Publications Chair;
