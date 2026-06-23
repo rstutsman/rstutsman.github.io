@@ -30,7 +30,7 @@ program](http://www.cs.utah.edu).*
 -->
 
 I am an Associate Professor and head of the [Scalable Software Systems Lab](http://www.utah.systems/)
-in the [School of Computing](http://www.cs.utah.edu/)
+in the [Kahlert School of Computing](http://www.cs.utah.edu/)
 at the [University of Utah](http://www.utah.edu/).
 My research is in distributed systems, operating systems, storage,
 cloud/datacenter systems, and hardware-software interfaces. I am interested in
@@ -420,16 +420,24 @@ PhD thesis, Stanford University, Stanford, CA, USA, December 2013.
    Recent Speculative Execution Vulnerabilities", June 2019.
 
 - Department Service
-  - School of Computing Database Faculty Search Committee, 2017;
+  - Kahlert School of Computing Curriculum Committee Chair, 2022-2025;
+  - School of Computing Curriculum Committee Member, 2020-2021;
   - University of Utah School of Computing Outstanding Teaching/TA Awards Selection Committee,
 AY ’17-’18;
   - School of Computing Ph.D. Admissions Committee, 2014, 2015, 2016, 2018, 2020.
+  - Kahlert School of Computing Undergraduate Research Committee Member, 2022-present;
   - College of Engineering Engineering Day Session Organizer, “Undergraduate Research in Computer Science”, 2020;
   - School of Computing Mock Panel Participant, 2019, 2020;
-  - School of Computing Undergraduate Research Liaison, 2019-present;
+  - School of Computing Undergraduate Research Liaison, 2019-2021;
   - School of Computing Graduate Admit Visit Day Coordinator, 2017, 2018;
-  - School of Computing Undergraduate Advisory Committee (UGSAC) Faculty Advisor, 2015-present.
+  - School of Computing Undergraduate Advisory Committee (UGSAC) Faculty Advisor, 2015-2021.
 - College Service
+  - Stena Fintech Center Associate Chair for Price College of Engineering, 2023-present;
+  - Price College of Engineering Strategic Planning Committee, 2025-present;
+  - Price College of Engineering Teaching Excellence Committee, 2023-2025;
+  - Price College of Engineering Undergraduate Research Opportunity Program (UROP) Reviewer,
+2023, 2024, 2025;
+  - Panelist, University of Utah/Stena Center FintechXchange Summit, 2023, 2024, 2025;
   - College of Engineering Scholarship Committee, 2019, 2020;
   - College of Engineering Orientation Panel, 2019 (3×), 2020.
 - University Service
