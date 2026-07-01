@@ -113,7 +113,7 @@ systems.
 
 # <a name="projects"></a> Projects
 
- - [Memory Ordering for Fast I/O](https://utah.systems/projects/liew_pcie-ordering) -
+ - [Memory Ordering for Fast I/O](https://doi.org/10.1145/3779212.3790156) -
    Recent work with Vijay Nagarajan's group revisits how CPUs and devices
    communicate over PCIe and emerging interconnects. Carefully ordered MMIO can
    be faster than traditional DMA paths and can obviate the need for
